@@ -256,6 +256,14 @@
       "price": "550.00",
       "status": "3"
     },
+    "PVWW|33691|20260402|PICTURE  PERFECT": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "02:30 PM",
+      "date": "20260402",
+      "cat": "PICTURE  PERFECT",
+      "price": "550.00",
+      "status": "1"
+    },
     "PVWW|33691|20260402|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "02:30 PM",
@@ -279,14 +287,6 @@
       "cat": "CLASSIC PLUS ROWS",
       "price": "550.00",
       "status": "3"
-    },
-    "PVWW|33691|20260402|PICTURE  PERFECT": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "02:30 PM",
-      "date": "20260402",
-      "cat": "PICTURE  PERFECT",
-      "price": "550.00",
-      "status": "1"
     },
     "INRZ|63230|20260402|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
