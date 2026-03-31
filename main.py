@@ -587,6 +587,10 @@ def main():
 
     print(f"  🎬 {movie_info['name']}  {movie_info['language']}")
 
+    # Debug: show unique screen_attr values
+    attrs = set(s.screen_attr for s in all_shows)
+    print(f"  📺 Formats found: {attrs}")
+
     # Apply filters
     filtered = filter_shows(
         all_shows,
