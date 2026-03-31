@@ -217,9 +217,8 @@ def parse_dates(data):
     return dates
 
 
-def parse_shows(data, debug=False):
+def parse_shows(data):
     shows = []
-    _debug_done = False
     for w in data.get("data", {}).get("showtimeWidgets", []):
         if w.get("type") != "groupList":
             continue
@@ -235,12 +234,6 @@ def parse_shows(data, debug=False):
 
                 for st in card.get("showtimes", []):
                     sa = st.get("additionalData", {})
-                    if debug and not _debug_done:
-                        st_keys = {k: v for k, v in st.items() if k != "additionalData"}
-                        sa_keys = {k: v for k, v in sa.items() if k != "categories"}
-                        print(f"  🔍 DEBUG showtime keys: {json.dumps(st_keys, indent=2)}")
-                        print(f"  🔍 DEBUG additionalData keys: {json.dumps(sa_keys, indent=2)}")
-                        _debug_done = True
                     date_code = str(
                         sa.get("showDateCode", "")
                         or sa.get("dateCode", "")
@@ -292,10 +285,10 @@ def filter_shows(shows, theatre_filter, format_filter, time_periods, date_codes)
             if not any(k in name_lower for k in kws):
                 continue
 
-        # Format filter
+        # Format filter (matches screen_attr or venue name)
         if fmts:
-            attr_lower = s.screen_attr.lower()
-            if not any(f in attr_lower for f in fmts):
+            searchable = f"{s.screen_attr} {s.venue_name}".lower()
+            if not any(f in searchable for f in fmts):
                 continue
 
         # Date filter
@@ -586,19 +579,13 @@ def main():
             movie_info = parse_movie_info(data)
 
         all_dates.extend(parse_dates(data))
-        all_shows.extend(parse_shows(data, debug=(not all_shows)))
+        all_shows.extend(parse_shows(data))
 
     if not all_shows:
         print("  ❌ No showtimes found.")
         sys.exit(0)
 
     print(f"  🎬 {movie_info['name']}  {movie_info['language']}")
-
-    # Debug: show unique screen_attr values and sample venue info
-    attrs = set(s.screen_attr for s in all_shows)
-    print(f"  📺 Formats found: {attrs}")
-    for s in all_shows[:5]:
-        print(f"    sample: {s.venue_name} | screen_attr=\"{s.screen_attr}\" | time={s.time}")
 
     # Apply filters
     filtered = filter_shows(
