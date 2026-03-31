@@ -587,6 +587,11 @@ def main():
 
     print(f"  🎬 {movie_info['name']}  {movie_info['language']}")
 
+    # Debug: print all unique venues and screen attrs
+    venues = set((s.venue_name, s.screen_attr) for s in all_shows)
+    for vn, sa in sorted(venues):
+        print(f"    venue=\"{vn}\" screen_attr=\"{sa}\"")
+
     # Apply filters
     filtered = filter_shows(
         all_shows,
