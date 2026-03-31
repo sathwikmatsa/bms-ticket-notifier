@@ -26,7 +26,6 @@ CONFIG = {
     ),
     "dates": os.getenv("BMS_DATES", ""),          # comma-separated YYYYMMDD, empty = from URL
     "theatre": os.getenv("BMS_THEATRE", ""),       # substring filter, empty = all
-    "format": os.getenv("BMS_FORMAT", ""),          # substring filter, e.g. "IMAX 2D", empty = all
     "time_period": os.getenv("BMS_TIME", ""),      # e.g. "evening,night", empty = all
 }
 
@@ -267,12 +266,10 @@ def parse_shows(data):
 # ──────────────────────────────────────────────────────────────────────
 # FILTERING
 # ──────────────────────────────────────────────────────────────────────
-def filter_shows(shows, theatre_filter, format_filter, time_periods, date_codes):
+def filter_shows(shows, theatre_filter, time_periods, date_codes):
     result = []
     kws = [k.strip().lower() for k in theatre_filter.split(",")
            if k.strip()] if theatre_filter else []
-    fmts = [f.strip().lower() for f in format_filter.split(",")
-            if f.strip()] if format_filter else []
     periods = [p.strip().lower() for p in time_periods.split(",")
                if p.strip()] if time_periods else []
     dates_set = set(d.strip() for d in date_codes.split(",")
@@ -283,12 +280,6 @@ def filter_shows(shows, theatre_filter, format_filter, time_periods, date_codes)
         if kws:
             name_lower = s.venue_name.lower()
             if not any(k in name_lower for k in kws):
-                continue
-
-        # Format filter (matches screen_attr or venue name)
-        if fmts:
-            searchable = f"{s.screen_attr} {s.venue_name}".lower()
-            if not any(f in searchable for f in fmts):
                 continue
 
         # Date filter
@@ -587,16 +578,10 @@ def main():
 
     print(f"  🎬 {movie_info['name']}  {movie_info['language']}")
 
-    # Debug: print all unique venues and screen attrs
-    venues = set((s.venue_name, s.screen_attr) for s in all_shows)
-    for vn, sa in sorted(venues):
-        print(f"    venue=\"{vn}\" screen_attr=\"{sa}\"")
-
     # Apply filters
     filtered = filter_shows(
         all_shows,
         CONFIG["theatre"],
-        CONFIG["format"],
         CONFIG["time_period"],
         CONFIG["dates"],
     )
