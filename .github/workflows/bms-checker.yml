@@ -33,6 +33,7 @@ jobs:
           BMS_URL: ${{ vars.BMS_URL }}
           BMS_DATES: ${{ vars.BMS_DATES }}
           BMS_THEATRE: ${{ vars.BMS_THEATRE }}
+          BMS_FORMAT: ${{ vars.BMS_FORMAT }}
           BMS_TIME: ${{ vars.BMS_TIME }}
         run: uv run main.py
 
