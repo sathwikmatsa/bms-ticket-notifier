@@ -217,8 +217,9 @@ def parse_dates(data):
     return dates
 
 
-def parse_shows(data):
+def parse_shows(data, debug=False):
     shows = []
+    _debug_done = False
     for w in data.get("data", {}).get("showtimeWidgets", []):
         if w.get("type") != "groupList":
             continue
@@ -234,6 +235,12 @@ def parse_shows(data):
 
                 for st in card.get("showtimes", []):
                     sa = st.get("additionalData", {})
+                    if debug and not _debug_done:
+                        st_keys = {k: v for k, v in st.items() if k != "additionalData"}
+                        sa_keys = {k: v for k, v in sa.items() if k != "categories"}
+                        print(f"  🔍 DEBUG showtime keys: {json.dumps(st_keys, indent=2)}")
+                        print(f"  🔍 DEBUG additionalData keys: {json.dumps(sa_keys, indent=2)}")
+                        _debug_done = True
                     date_code = str(
                         sa.get("showDateCode", "")
                         or sa.get("dateCode", "")
@@ -579,7 +586,7 @@ def main():
             movie_info = parse_movie_info(data)
 
         all_dates.extend(parse_dates(data))
-        all_shows.extend(parse_shows(data))
+        all_shows.extend(parse_shows(data, debug=(not all_shows)))
 
     if not all_shows:
         print("  ❌ No showtimes found.")
@@ -587,9 +594,11 @@ def main():
 
     print(f"  🎬 {movie_info['name']}  {movie_info['language']}")
 
-    # Debug: show unique screen_attr values
+    # Debug: show unique screen_attr values and sample venue info
     attrs = set(s.screen_attr for s in all_shows)
     print(f"  📺 Formats found: {attrs}")
+    for s in all_shows[:5]:
+        print(f"    sample: {s.venue_name} | screen_attr=\"{s.screen_attr}\" | time={s.time}")
 
     # Apply filters
     filtered = filter_shows(
