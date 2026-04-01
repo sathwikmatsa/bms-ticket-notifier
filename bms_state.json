@@ -53,7 +53,7 @@
       "time": "11:15 AM",
       "date": "20260402",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "800.00",
+      "price": "850.00",
       "status": "2"
     },
     "PVFF|45613|20260402|PRIME ROWS": {
@@ -190,7 +190,7 @@
       "date": "20260402",
       "cat": "PREMIUM",
       "price": "950.00",
-      "status": "1"
+      "status": "0"
     },
     "PVER|47539|20260402|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -221,7 +221,7 @@
       "time": "08:00 AM",
       "date": "20260402",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "290.00",
+      "price": "300.00",
       "status": "2"
     },
     "PVER|47539|20260402|CLASSIC ROWS": {
@@ -342,7 +342,15 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "550.00",
-      "status": "3"
+      "status": "2"
+    },
+    "PVWW|33690|20260402|PICTURE  PERFECT": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "11:15 AM",
+      "date": "20260402",
+      "cat": "PICTURE  PERFECT",
+      "price": "550.00",
+      "status": "0"
     },
     "PVWW|33690|20260402|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -368,22 +376,6 @@
       "price": "550.00",
       "status": "3"
     },
-    "PVWW|33690|20260402|PICTURE  PERFECT": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "11:15 AM",
-      "date": "20260402",
-      "cat": "PICTURE  PERFECT",
-      "price": "550.00",
-      "status": "0"
-    },
-    "PVWW|33691|20260402|PRIME ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "02:30 PM",
-      "date": "20260402",
-      "cat": "PRIME ROWS",
-      "price": "550.00",
-      "status": "1"
-    },
     "PVWW|33691|20260402|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "02:30 PM",
@@ -407,6 +399,14 @@
       "cat": "PICTURE  PERFECT",
       "price": "550.00",
       "status": "0"
+    },
+    "PVWW|33691|20260402|PRIME ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "02:30 PM",
+      "date": "20260402",
+      "cat": "PRIME ROWS",
+      "price": "550.00",
+      "status": "1"
     },
     "INRZ|63230|20260402|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
@@ -629,7 +629,7 @@
       "time": "05:00 PM",
       "date": "20260402",
       "cat": "PRIME ROWS",
-      "price": "560.00",
+      "price": "600.00",
       "status": "2"
     },
     "INMB|69168|20260402|CLASSIC PLUS ROWS": {
