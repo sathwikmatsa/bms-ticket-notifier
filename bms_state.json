@@ -46,7 +46,7 @@
       "date": "20260402",
       "cat": "PICTURE  PERFECT",
       "price": "870.00",
-      "status": "1"
+      "status": "0"
     },
     "PVFF|45613|20260402|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -312,14 +312,6 @@
       "price": "270.00",
       "status": "3"
     },
-    "PVWW|33689|20260402|PRIME ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "08:00 AM",
-      "date": "20260402",
-      "cat": "PRIME ROWS",
-      "price": "550.00",
-      "status": "2"
-    },
     "PVWW|33689|20260402|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "08:00 AM",
@@ -344,13 +336,13 @@
       "price": "550.00",
       "status": "0"
     },
-    "PVWW|33690|20260402|PICTURE  PERFECT": {
+    "PVWW|33689|20260402|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "11:15 AM",
+      "time": "08:00 AM",
       "date": "20260402",
-      "cat": "PICTURE  PERFECT",
+      "cat": "PRIME ROWS",
       "price": "550.00",
-      "status": "0"
+      "status": "2"
     },
     "PVWW|33690|20260402|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -376,13 +368,13 @@
       "price": "550.00",
       "status": "3"
     },
-    "PVWW|33691|20260402|PRIME ROWS": {
+    "PVWW|33690|20260402|PICTURE  PERFECT": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "02:30 PM",
+      "time": "11:15 AM",
       "date": "20260402",
-      "cat": "PRIME ROWS",
+      "cat": "PICTURE  PERFECT",
       "price": "550.00",
-      "status": "1"
+      "status": "0"
     },
     "PVWW|33691|20260402|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -407,6 +399,14 @@
       "cat": "PICTURE  PERFECT",
       "price": "550.00",
       "status": "0"
+    },
+    "PVWW|33691|20260402|PRIME ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "02:30 PM",
+      "date": "20260402",
+      "cat": "PRIME ROWS",
+      "price": "550.00",
+      "status": "1"
     },
     "INRZ|63230|20260402|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
