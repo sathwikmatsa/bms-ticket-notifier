@@ -1,12 +1,37 @@
 {
-  "shows": {},
+  "shows": {
+    "CFBS|2508|20260404|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "NORMAL",
+      "price": "850.00",
+      "status": "3"
+    },
+    "CFBS|2508|20260404|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "EXECUTIVE",
+      "price": "900.00",
+      "status": "3"
+    },
+    "CFBS|2508|20260404|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "PREMIUM",
+      "price": "950.00",
+      "status": "2"
+    }
+  },
   "dates": {
-    "20260402": "BOOKABLE",
-    "20260403": "NOT_OPEN",
-    "20260404": "NOT_OPEN",
+    "20260402": "AVAILABLE",
+    "20260404": "BOOKABLE",
     "20260405": "NOT_OPEN",
     "20260406": "NOT_OPEN",
     "20260407": "NOT_OPEN",
-    "20260408": "NOT_OPEN"
+    "20260408": "NOT_OPEN",
+    "20260409": "NOT_OPEN"
   }
 }
