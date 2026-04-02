@@ -117,7 +117,7 @@
       "time": "08:30 AM",
       "date": "20260404",
       "cat": "PRIME ROWS",
-      "price": "870.00",
+      "price": "970.00",
       "status": "2"
     },
     "PVFF|45783|20260404|CLASSIC PLUS ROWS": {
@@ -166,7 +166,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1340.00",
-      "status": "2"
+      "status": "3"
     },
     "PVFF|45785|20260404|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -232,6 +232,14 @@
       "price": "699.00",
       "status": "2"
     },
+    "PVER|47732|20260404|CLASSIC ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "599.00",
+      "status": "3"
+    },
     "PVER|47732|20260404|PRIME ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
@@ -245,14 +253,6 @@
       "time": "07:35 AM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "599.00",
-      "status": "3"
-    },
-    "PVER|47732|20260404|CLASSIC ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
       "price": "599.00",
       "status": "3"
     },
@@ -462,7 +462,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "900.00",
-      "status": "2"
+      "status": "3"
     },
     "INRZ|63306|20260404|PRIME ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
