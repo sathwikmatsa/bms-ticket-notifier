@@ -102,7 +102,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "1020.00",
-      "status": "0"
+      "status": "1"
     },
     "PVFF|45783|20260404|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -166,7 +166,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1340.00",
-      "status": "2"
+      "status": "3"
     },
     "PVFF|45785|20260404|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -318,7 +318,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "850.00",
-      "status": "2"
+      "status": "1"
     },
     "PVER|47737|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -462,7 +462,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "900.00",
-      "status": "3"
+      "status": "2"
     },
     "INRZ|63306|20260404|PRIME ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
