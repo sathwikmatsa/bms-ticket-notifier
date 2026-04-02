@@ -1,13 +1,5 @@
 {
   "shows": {
-    "PVFF|45612|20260402|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:55 AM",
-      "date": "20260402",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "600.00",
-      "status": "2"
-    },
     "PVFF|45612|20260402|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "07:55 AM",
@@ -31,6 +23,14 @@
       "cat": "EXTRA LEGROOM ROWS",
       "price": "600.00",
       "status": "1"
+    },
+    "PVFF|45612|20260402|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:55 AM",
+      "date": "20260402",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "600.00",
+      "status": "2"
     },
     "PVFF|45612|20260402|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -125,7 +125,7 @@
       "time": "07:30 AM",
       "date": "20260402",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "520.00",
       "status": "3"
     },
     "CFBS|2373|20260402|EXECUTIVE": {
@@ -133,7 +133,7 @@
       "time": "07:30 AM",
       "date": "20260402",
       "cat": "EXECUTIVE",
-      "price": "550.00",
+      "price": "600.00",
       "status": "2"
     },
     "CFBS|2373|20260402|PREMIUM": {
@@ -141,7 +141,7 @@
       "time": "07:30 AM",
       "date": "20260402",
       "cat": "PREMIUM",
-      "price": "600.00",
+      "price": "650.00",
       "status": "2"
     },
     "CFBS|2374|20260402|NORMAL": {
@@ -149,7 +149,7 @@
       "time": "10:55 AM",
       "date": "20260402",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "520.00",
       "status": "3"
     },
     "CFBS|2374|20260402|EXECUTIVE": {
@@ -165,7 +165,7 @@
       "time": "10:55 AM",
       "date": "20260402",
       "cat": "PREMIUM",
-      "price": "700.00",
+      "price": "650.00",
       "status": "2"
     },
     "CFBS|2376|20260402|NORMAL": {
@@ -344,6 +344,14 @@
       "price": "550.00",
       "status": "3"
     },
+    "PVWW|33690|20260402|CLASSIC ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "11:15 AM",
+      "date": "20260402",
+      "cat": "CLASSIC ROWS",
+      "price": "550.00",
+      "status": "3"
+    },
     "PVWW|33690|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "11:15 AM",
@@ -367,14 +375,6 @@
       "cat": "PRIME ROWS",
       "price": "550.00",
       "status": "1"
-    },
-    "PVWW|33690|20260402|CLASSIC ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "11:15 AM",
-      "date": "20260402",
-      "cat": "CLASSIC ROWS",
-      "price": "550.00",
-      "status": "3"
     },
     "PVWW|33691|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -677,7 +677,7 @@
       "time": "10:40 AM",
       "date": "20260403",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "600.00",
       "status": "3"
     },
     "CFBS|2461|20260403|EXECUTIVE": {
@@ -685,7 +685,7 @@
       "time": "10:40 AM",
       "date": "20260403",
       "cat": "EXECUTIVE",
-      "price": "550.00",
+      "price": "650.00",
       "status": "3"
     },
     "CFBS|2461|20260403|PREMIUM": {
@@ -693,15 +693,15 @@
       "time": "10:40 AM",
       "date": "20260403",
       "cat": "PREMIUM",
-      "price": "600.00",
-      "status": "3"
+      "price": "700.00",
+      "status": "2"
     },
     "CFBS|2464|20260403|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "04:35 PM",
       "date": "20260403",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "800.00",
       "status": "3"
     },
     "CFBS|2464|20260403|EXECUTIVE": {
@@ -709,7 +709,7 @@
       "time": "04:35 PM",
       "date": "20260403",
       "cat": "EXECUTIVE",
-      "price": "550.00",
+      "price": "850.00",
       "status": "3"
     },
     "CFBS|2464|20260403|PREMIUM": {
@@ -717,7 +717,7 @@
       "time": "04:35 PM",
       "date": "20260403",
       "cat": "PREMIUM",
-      "price": "600.00",
+      "price": "950.00",
       "status": "3"
     },
     "CFBS|2462|20260403|NORMAL": {
@@ -725,7 +725,7 @@
       "time": "10:30 PM",
       "date": "20260403",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "850.00",
       "status": "3"
     },
     "CFBS|2462|20260403|EXECUTIVE": {
@@ -733,7 +733,7 @@
       "time": "10:30 PM",
       "date": "20260403",
       "cat": "EXECUTIVE",
-      "price": "550.00",
+      "price": "900.00",
       "status": "3"
     },
     "CFBS|2462|20260403|PREMIUM": {
@@ -741,7 +741,7 @@
       "time": "10:30 PM",
       "date": "20260403",
       "cat": "PREMIUM",
-      "price": "600.00",
+      "price": "950.00",
       "status": "3"
     },
     "CFBS|2547|20260405|NORMAL": {
@@ -773,7 +773,7 @@
       "time": "10:40 AM",
       "date": "20260405",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "600.00",
       "status": "3"
     },
     "CFBS|2548|20260405|EXECUTIVE": {
@@ -781,7 +781,7 @@
       "time": "10:40 AM",
       "date": "20260405",
       "cat": "EXECUTIVE",
-      "price": "550.00",
+      "price": "650.00",
       "status": "3"
     },
     "CFBS|2548|20260405|PREMIUM": {
@@ -789,7 +789,7 @@
       "time": "10:40 AM",
       "date": "20260405",
       "cat": "PREMIUM",
-      "price": "600.00",
+      "price": "700.00",
       "status": "3"
     },
     "CFBS|2549|20260405|NORMAL": {
@@ -797,7 +797,7 @@
       "time": "04:35 PM",
       "date": "20260405",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "850.00",
       "status": "3"
     },
     "CFBS|2549|20260405|EXECUTIVE": {
@@ -805,7 +805,7 @@
       "time": "04:35 PM",
       "date": "20260405",
       "cat": "EXECUTIVE",
-      "price": "550.00",
+      "price": "900.00",
       "status": "3"
     },
     "CFBS|2549|20260405|PREMIUM": {
@@ -813,7 +813,7 @@
       "time": "04:35 PM",
       "date": "20260405",
       "cat": "PREMIUM",
-      "price": "600.00",
+      "price": "950.00",
       "status": "3"
     },
     "CFBS|2550|20260405|NORMAL": {
@@ -821,7 +821,7 @@
       "time": "10:30 PM",
       "date": "20260405",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "850.00",
       "status": "3"
     },
     "CFBS|2550|20260405|EXECUTIVE": {
@@ -829,7 +829,7 @@
       "time": "10:30 PM",
       "date": "20260405",
       "cat": "EXECUTIVE",
-      "price": "550.00",
+      "price": "900.00",
       "status": "3"
     },
     "CFBS|2550|20260405|PREMIUM": {
@@ -837,7 +837,7 @@
       "time": "10:30 PM",
       "date": "20260405",
       "cat": "PREMIUM",
-      "price": "600.00",
+      "price": "950.00",
       "status": "3"
     }
   },
