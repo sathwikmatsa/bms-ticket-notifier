@@ -1,5 +1,101 @@
 {
   "shows": {
+    "CFBS|2774|20260404|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:20 AM",
+      "date": "20260404",
+      "cat": "NORMAL",
+      "price": "1200.00",
+      "status": "3"
+    },
+    "CFBS|2774|20260404|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:20 AM",
+      "date": "20260404",
+      "cat": "EXECUTIVE",
+      "price": "1250.00",
+      "status": "3"
+    },
+    "CFBS|2774|20260404|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:20 AM",
+      "date": "20260404",
+      "cat": "PREMIUM",
+      "price": "1300.00",
+      "status": "3"
+    },
+    "CFBS|2770|20260404|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:45 AM",
+      "date": "20260404",
+      "cat": "NORMAL",
+      "price": "1200.00",
+      "status": "3"
+    },
+    "CFBS|2770|20260404|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:45 AM",
+      "date": "20260404",
+      "cat": "EXECUTIVE",
+      "price": "1250.00",
+      "status": "3"
+    },
+    "CFBS|2770|20260404|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:45 AM",
+      "date": "20260404",
+      "cat": "PREMIUM",
+      "price": "1300.00",
+      "status": "3"
+    },
+    "CFBS|2507|20260404|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260404",
+      "cat": "NORMAL",
+      "price": "1200.00",
+      "status": "3"
+    },
+    "CFBS|2507|20260404|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260404",
+      "cat": "EXECUTIVE",
+      "price": "1250.00",
+      "status": "0"
+    },
+    "CFBS|2507|20260404|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260404",
+      "cat": "PREMIUM",
+      "price": "1300.00",
+      "status": "0"
+    },
+    "CFBS|2508|20260404|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "NORMAL",
+      "price": "1200.00",
+      "status": "3"
+    },
+    "CFBS|2508|20260404|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "EXECUTIVE",
+      "price": "1250.00",
+      "status": "1"
+    },
+    "CFBS|2508|20260404|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "PREMIUM",
+      "price": "1300.00",
+      "status": "1"
+    },
     "PVFF|45783|20260404|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "08:30 AM",
@@ -13,7 +109,7 @@
       "time": "08:30 AM",
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "900.00",
+      "price": "1000.00",
       "status": "2"
     },
     "PVFF|45783|20260404|PRIME ROWS": {
@@ -46,7 +142,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "1420.00",
-      "status": "0"
+      "status": "1"
     },
     "PVFF|45785|20260404|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -134,14 +230,6 @@
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "649.00",
-      "status": "2"
-    },
-    "PVER|47732|20260404|PRIME ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "599.00",
       "status": "3"
     },
     "PVER|47732|20260404|CLASSIC PLUS ROWS": {
@@ -160,6 +248,14 @@
       "price": "599.00",
       "status": "3"
     },
+    "PVER|47732|20260404|PRIME ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "599.00",
+      "status": "3"
+    },
     "PVER|47733|20260404|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "10:35 AM",
@@ -174,7 +270,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "900.00",
-      "status": "1"
+      "status": "0"
     },
     "PVER|47733|20260404|PRIME ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -200,13 +296,21 @@
       "price": "700.00",
       "status": "3"
     },
+    "PVER|47737|20260404|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "950.00",
+      "status": "0"
+    },
     "PVER|47737|20260404|PICTURE  PERFECT": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "10:30 PM",
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "900.00",
-      "status": "0"
+      "status": "1"
     },
     "PVER|47737|20260404|PRIME ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -216,20 +320,12 @@
       "price": "850.00",
       "status": "2"
     },
-    "PVER|47737|20260404|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "850.00",
-      "status": "0"
-    },
     "PVER|47737|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "10:30 PM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "730.00",
+      "price": "830.00",
       "status": "3"
     },
     "PVER|47737|20260404|CLASSIC ROWS": {
@@ -366,7 +462,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "900.00",
-      "status": "2"
+      "status": "3"
     },
     "INRZ|63306|20260404|PRIME ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
@@ -478,7 +574,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "990.00",
-      "status": "2"
+      "status": "1"
     },
     "INMB|69248|20260404|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
@@ -552,20 +648,20 @@
       "price": "910.00",
       "status": "3"
     },
+    "INMB|69252|20260404|PICTURE  PERFECT": {
+      "venue": "INOX: Mantri Square, Malleshwaram",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "PICTURE  PERFECT",
+      "price": "1100.00",
+      "status": "2"
+    },
     "INMB|69252|20260404|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
       "time": "10:30 PM",
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "1040.00",
-      "status": "3"
-    },
-    "INMB|69252|20260404|PICTURE  PERFECT": {
-      "venue": "INOX: Mantri Square, Malleshwaram",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "PICTURE  PERFECT",
-      "price": "990.00",
       "status": "3"
     },
     "INMB|69252|20260404|PRIME ROWS": {
