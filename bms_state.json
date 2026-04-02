@@ -312,14 +312,6 @@
       "price": "300.00",
       "status": "3"
     },
-    "PVWW|33689|20260402|CLASSIC ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "08:00 AM",
-      "date": "20260402",
-      "cat": "CLASSIC ROWS",
-      "price": "550.00",
-      "status": "3"
-    },
     "PVWW|33689|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "08:00 AM",
@@ -344,17 +336,9 @@
       "price": "550.00",
       "status": "2"
     },
-    "PVWW|33690|20260402|PRIME ROWS": {
+    "PVWW|33689|20260402|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "11:15 AM",
-      "date": "20260402",
-      "cat": "PRIME ROWS",
-      "price": "550.00",
-      "status": "1"
-    },
-    "PVWW|33690|20260402|CLASSIC ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "11:15 AM",
+      "time": "08:00 AM",
       "date": "20260402",
       "cat": "CLASSIC ROWS",
       "price": "550.00",
@@ -376,17 +360,17 @@
       "price": "550.00",
       "status": "0"
     },
-    "PVWW|33691|20260402|PRIME ROWS": {
+    "PVWW|33690|20260402|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "02:30 PM",
+      "time": "11:15 AM",
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "550.00",
       "status": "1"
     },
-    "PVWW|33691|20260402|CLASSIC ROWS": {
+    "PVWW|33690|20260402|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "02:30 PM",
+      "time": "11:15 AM",
       "date": "20260402",
       "cat": "CLASSIC ROWS",
       "price": "550.00",
@@ -407,6 +391,22 @@
       "cat": "PICTURE  PERFECT",
       "price": "550.00",
       "status": "0"
+    },
+    "PVWW|33691|20260402|PRIME ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "02:30 PM",
+      "date": "20260402",
+      "cat": "PRIME ROWS",
+      "price": "550.00",
+      "status": "1"
+    },
+    "PVWW|33691|20260402|CLASSIC ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "02:30 PM",
+      "date": "20260402",
+      "cat": "CLASSIC ROWS",
+      "price": "550.00",
+      "status": "3"
     },
     "INRZ|63230|20260402|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
@@ -647,13 +647,205 @@
       "cat": "CLASSIC ROWS",
       "price": "480.00",
       "status": "3"
+    },
+    "CFBS|2460|20260403|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:15 AM",
+      "date": "20260403",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|2460|20260403|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:15 AM",
+      "date": "20260403",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CFBS|2460|20260403|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:15 AM",
+      "date": "20260403",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "3"
+    },
+    "CFBS|2461|20260403|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:40 AM",
+      "date": "20260403",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|2461|20260403|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:40 AM",
+      "date": "20260403",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CFBS|2461|20260403|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:40 AM",
+      "date": "20260403",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "3"
+    },
+    "CFBS|2464|20260403|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260403",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|2464|20260403|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260403",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CFBS|2464|20260403|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260403",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "3"
+    },
+    "CFBS|2462|20260403|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260403",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|2462|20260403|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260403",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CFBS|2462|20260403|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260403",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "3"
+    },
+    "CFBS|2547|20260405|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:15 AM",
+      "date": "20260405",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|2547|20260405|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:15 AM",
+      "date": "20260405",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CFBS|2547|20260405|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:15 AM",
+      "date": "20260405",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "3"
+    },
+    "CFBS|2548|20260405|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:40 AM",
+      "date": "20260405",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|2548|20260405|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:40 AM",
+      "date": "20260405",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CFBS|2548|20260405|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:40 AM",
+      "date": "20260405",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "3"
+    },
+    "CFBS|2549|20260405|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260405",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|2549|20260405|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260405",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CFBS|2549|20260405|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "04:35 PM",
+      "date": "20260405",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "3"
+    },
+    "CFBS|2550|20260405|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260405",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|2550|20260405|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260405",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CFBS|2550|20260405|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:30 PM",
+      "date": "20260405",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "3"
     }
   },
   "dates": {
     "20260402": "BOOKABLE",
-    "20260403": "NOT_OPEN",
-    "20260404": "NOT_OPEN",
-    "20260405": "NOT_OPEN",
+    "20260403": "AVAILABLE",
+    "20260404": "AVAILABLE",
+    "20260405": "AVAILABLE",
     "20260406": "NOT_OPEN",
     "20260407": "NOT_OPEN",
     "20260408": "NOT_OPEN"
