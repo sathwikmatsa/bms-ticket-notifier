@@ -46,7 +46,7 @@
       "date": "20260404",
       "cat": "PREMIUM",
       "price": "1300.00",
-      "status": "3"
+      "status": "2"
     },
     "CFBS|2507|20260404|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -166,7 +166,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1340.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFF|45785|20260404|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -240,19 +240,19 @@
       "price": "649.00",
       "status": "3"
     },
-    "PVER|47732|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "599.00",
-      "status": "3"
-    },
     "PVER|47732|20260404|CLASSIC ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
+      "price": "599.00",
+      "status": "3"
+    },
+    "PVER|47732|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "599.00",
       "status": "3"
     },
@@ -278,7 +278,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "850.00",
-      "status": "2"
+      "status": "1"
     },
     "PVER|47733|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -310,7 +310,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "900.00",
-      "status": "1"
+      "status": "0"
     },
     "PVER|47737|20260404|PRIME ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
