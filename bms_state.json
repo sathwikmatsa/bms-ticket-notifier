@@ -46,7 +46,7 @@
       "date": "20260404",
       "cat": "PREMIUM",
       "price": "1300.00",
-      "status": "1"
+      "status": "0"
     },
     "CFBS|2507|20260404|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -541,7 +541,7 @@
       "time": "05:00 PM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "820.00",
+      "price": "840.00",
       "status": "3"
     },
     "INRZ|63306|20260404|CLASSIC ROWS": {
@@ -694,7 +694,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1050.00",
-      "status": "1"
+      "status": "2"
     },
     "INMB|69250|20260404|PRIME ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
