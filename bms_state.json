@@ -126,14 +126,14 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "940.00",
-      "status": "0"
+      "status": "1"
     },
     "PVFF|45783|20260404|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "08:30 AM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "770.00",
+      "price": "820.00",
       "status": "3"
     },
     "PVFF|45785|20260404|PICTURE  PERFECT": {
@@ -166,7 +166,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1340.00",
-      "status": "1"
+      "status": "0"
     },
     "PVFF|45785|20260404|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -216,14 +216,6 @@
       "price": "1320.00",
       "status": "3"
     },
-    "PVER|47732|20260404|PICTURE  PERFECT": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "PICTURE  PERFECT",
-      "price": "749.00",
-      "status": "0"
-    },
     "PVER|47732|20260404|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
@@ -232,19 +224,27 @@
       "price": "749.00",
       "status": "0"
     },
-    "PVER|47732|20260404|CLASSIC PLUS ROWS": {
+    "PVER|47732|20260404|PICTURE  PERFECT": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
       "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "699.00",
-      "status": "1"
+      "cat": "PICTURE  PERFECT",
+      "price": "749.00",
+      "status": "0"
     },
     "PVER|47732|20260404|PRIME ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
       "date": "20260404",
       "cat": "PRIME ROWS",
+      "price": "699.00",
+      "status": "0"
+    },
+    "PVER|47732|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "699.00",
       "status": "1"
     },
@@ -429,7 +429,7 @@
       "time": "05:00 PM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "1050.00",
+      "price": "1100.00",
       "status": "2"
     },
     "INRZ|63303|20260404|EXTRA LEGROOM ROWS": {
@@ -574,7 +574,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "880.00",
-      "status": "2"
+      "status": "1"
     },
     "INRZ|63308|20260404|CLASSIC PLUS ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
