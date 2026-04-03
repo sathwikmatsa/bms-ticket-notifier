@@ -240,19 +240,19 @@
       "price": "649.00",
       "status": "3"
     },
-    "PVER|47732|20260404|CLASSIC ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "599.00",
-      "status": "3"
-    },
     "PVER|47732|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "599.00",
+      "status": "3"
+    },
+    "PVER|47732|20260404|CLASSIC ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
       "price": "599.00",
       "status": "3"
     },
@@ -462,7 +462,7 @@
       "date": "20260404",
       "cat": "PICTURE  PERFECT",
       "price": "900.00",
-      "status": "3"
+      "status": "2"
     },
     "INRZ|63306|20260404|PRIME ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
@@ -589,8 +589,8 @@
       "time": "11:30 AM",
       "date": "20260404",
       "cat": "PRIME ROWS",
-      "price": "850.00",
-      "status": "3"
+      "price": "900.00",
+      "status": "2"
     },
     "INMB|69248|20260404|CLASSIC PLUS ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
