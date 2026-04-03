@@ -232,19 +232,19 @@
       "price": "749.00",
       "status": "0"
     },
-    "PVER|47732|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "699.00",
-      "status": "1"
-    },
     "PVER|47732|20260404|PRIME ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
       "date": "20260404",
       "cat": "PRIME ROWS",
+      "price": "699.00",
+      "status": "1"
+    },
+    "PVER|47732|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "699.00",
       "status": "1"
     },
@@ -621,7 +621,7 @@
       "time": "08:15 AM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "690.00",
+      "price": "740.00",
       "status": "2"
     },
     "INMB|69247|20260404|CLASSIC ROWS": {
