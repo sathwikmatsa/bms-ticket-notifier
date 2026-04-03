@@ -390,7 +390,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1150.00",
-      "status": "1"
+      "status": "0"
     },
     "PVWW|33856|20260404|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -461,7 +461,7 @@
       "time": "08:15 AM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "620.00",
+      "price": "640.00",
       "status": "3"
     },
     "INRZ|63303|20260404|CLASSIC ROWS": {
@@ -558,7 +558,7 @@
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "950.00",
-      "status": "1"
+      "status": "0"
     },
     "INRZ|63308|20260404|PICTURE  PERFECT": {
       "venue": "INOX: Galleria Mall, Yelahanka",
