@@ -5,7 +5,7 @@
       "time": "07:20 AM",
       "date": "20260404",
       "cat": "NORMAL",
-      "price": "1200.00",
+      "price": "950.00",
       "status": "3"
     },
     "CFBS|2774|20260404|EXECUTIVE": {
@@ -13,7 +13,7 @@
       "time": "07:20 AM",
       "date": "20260404",
       "cat": "EXECUTIVE",
-      "price": "1250.00",
+      "price": "1050.00",
       "status": "1"
     },
     "CFBS|2774|20260404|PREMIUM": {
@@ -21,7 +21,7 @@
       "time": "07:20 AM",
       "date": "20260404",
       "cat": "PREMIUM",
-      "price": "1300.00",
+      "price": "1100.00",
       "status": "1"
     },
     "CFBS|2770|20260404|NORMAL": {
