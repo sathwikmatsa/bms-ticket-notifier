@@ -232,14 +232,6 @@
       "price": "749.00",
       "status": "0"
     },
-    "PVER|47732|20260404|PRIME ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "699.00",
-      "status": "1"
-    },
     "PVER|47732|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
@@ -247,6 +239,14 @@
       "cat": "CLASSIC PLUS ROWS",
       "price": "699.00",
       "status": "2"
+    },
+    "PVER|47732|20260404|PRIME ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "699.00",
+      "status": "1"
     },
     "PVER|47732|20260404|CLASSIC ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -477,8 +477,8 @@
       "time": "11:30 AM",
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "930.00",
-      "status": "3"
+      "price": "950.00",
+      "status": "2"
     },
     "INRZ|63304|20260404|PICTURE  PERFECT": {
       "venue": "INOX: Galleria Mall, Yelahanka",
@@ -533,7 +533,7 @@
       "time": "05:00 PM",
       "date": "20260404",
       "cat": "PRIME ROWS",
-      "price": "860.00",
+      "price": "880.00",
       "status": "2"
     },
     "INRZ|63306|20260404|CLASSIC PLUS ROWS": {
@@ -552,6 +552,14 @@
       "price": "800.00",
       "status": "3"
     },
+    "INRZ|63308|20260404|PICTURE  PERFECT": {
+      "venue": "INOX: Galleria Mall, Yelahanka",
+      "time": "10:30 PM",
+      "date": "20260404",
+      "cat": "PICTURE  PERFECT",
+      "price": "920.00",
+      "status": "2"
+    },
     "INRZ|63308|20260404|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
       "time": "10:30 PM",
@@ -559,14 +567,6 @@
       "cat": "EXTRA LEGROOM ROWS",
       "price": "910.00",
       "status": "3"
-    },
-    "INRZ|63308|20260404|PICTURE  PERFECT": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "PICTURE  PERFECT",
-      "price": "900.00",
-      "status": "2"
     },
     "INRZ|63308|20260404|PRIME ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
@@ -614,7 +614,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "750.00",
-      "status": "2"
+      "status": "1"
     },
     "INMB|69247|20260404|CLASSIC PLUS ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
