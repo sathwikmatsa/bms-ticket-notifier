@@ -216,14 +216,6 @@
       "price": "1320.00",
       "status": "3"
     },
-    "PVER|47732|20260404|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "07:35 AM",
-      "date": "20260404",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "749.00",
-      "status": "0"
-    },
     "PVER|47732|20260404|PICTURE  PERFECT": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
@@ -232,13 +224,13 @@
       "price": "749.00",
       "status": "0"
     },
-    "PVER|47732|20260404|PRIME ROWS": {
+    "PVER|47732|20260404|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "07:35 AM",
       "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "699.00",
-      "status": "1"
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "749.00",
+      "status": "0"
     },
     "PVER|47732|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -247,6 +239,14 @@
       "cat": "CLASSIC PLUS ROWS",
       "price": "699.00",
       "status": "2"
+    },
+    "PVER|47732|20260404|PRIME ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "07:35 AM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "699.00",
+      "status": "1"
     },
     "PVER|47732|20260404|CLASSIC ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -557,7 +557,7 @@
       "time": "10:30 PM",
       "date": "20260404",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "930.00",
+      "price": "950.00",
       "status": "1"
     },
     "INRZ|63308|20260404|PICTURE  PERFECT": {
@@ -622,7 +622,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "690.00",
-      "status": "3"
+      "status": "2"
     },
     "INMB|69247|20260404|CLASSIC ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
