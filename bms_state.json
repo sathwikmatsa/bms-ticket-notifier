@@ -14,7 +14,7 @@
       "date": "20260404",
       "cat": "EXECUTIVE",
       "price": "1250.00",
-      "status": "2"
+      "status": "1"
     },
     "CFBS|2774|20260404|PREMIUM": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -350,7 +350,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "1050.00",
-      "status": "1"
+      "status": "0"
     },
     "PVWW|33855|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -390,7 +390,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1150.00",
-      "status": "0"
+      "status": "1"
     },
     "PVWW|33856|20260404|CLASSIC ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
