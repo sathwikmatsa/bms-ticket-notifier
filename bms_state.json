@@ -72,46 +72,6 @@
       "price": "1300.00",
       "status": "0"
     },
-    "PVFF|45783|20260404|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "PICTURE  PERFECT",
-      "price": "1020.00",
-      "status": "1"
-    },
-    "PVFF|45783|20260404|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "1000.00",
-      "status": "0"
-    },
-    "PVFF|45783|20260404|PRIME ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "970.00",
-      "status": "0"
-    },
-    "PVFF|45783|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "940.00",
-      "status": "0"
-    },
-    "PVFF|45783|20260404|CLASSIC ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "820.00",
-      "status": "3"
-    },
     "PVFF|45785|20260404|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "01:45 PM",
@@ -272,38 +232,6 @@
       "price": "800.00",
       "status": "3"
     },
-    "PVWW|33855|20260404|PICTURE  PERFECT": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "PICTURE  PERFECT",
-      "price": "1100.00",
-      "status": "0"
-    },
-    "PVWW|33855|20260404|PRIME ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "1050.00",
-      "status": "1"
-    },
-    "PVWW|33855|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "950.00",
-      "status": "0"
-    },
-    "PVWW|33855|20260404|CLASSIC ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "08:30 AM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "800.00",
-      "status": "3"
-    },
     "PVWW|33856|20260404|PICTURE  PERFECT": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "11:30 AM",
@@ -368,46 +296,6 @@
       "price": "1100.00",
       "status": "2"
     },
-    "INRZ|63303|20260404|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "750.00",
-      "status": "1"
-    },
-    "INRZ|63303|20260404|PICTURE  PERFECT": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "PICTURE  PERFECT",
-      "price": "720.00",
-      "status": "1"
-    },
-    "INRZ|63303|20260404|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "680.00",
-      "status": "2"
-    },
-    "INRZ|63303|20260404|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "640.00",
-      "status": "3"
-    },
-    "INRZ|63303|20260404|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
     "INRZ|63304|20260404|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
       "time": "11:30 AM",
@@ -438,7 +326,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "840.00",
-      "status": "3"
+      "status": "2"
     },
     "INRZ|63304|20260404|CLASSIC ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
@@ -528,46 +416,6 @@
       "price": "800.00",
       "status": "3"
     },
-    "INMB|69247|20260404|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Mantri Square, Malleshwaram",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "840.00",
-      "status": "2"
-    },
-    "INMB|69247|20260404|PICTURE  PERFECT": {
-      "venue": "INOX: Mantri Square, Malleshwaram",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "PICTURE  PERFECT",
-      "price": "790.00",
-      "status": "0"
-    },
-    "INMB|69247|20260404|PRIME ROWS": {
-      "venue": "INOX: Mantri Square, Malleshwaram",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "750.00",
-      "status": "1"
-    },
-    "INMB|69247|20260404|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Mantri Square, Malleshwaram",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "740.00",
-      "status": "2"
-    },
-    "INMB|69247|20260404|CLASSIC ROWS": {
-      "venue": "INOX: Mantri Square, Malleshwaram",
-      "time": "08:15 AM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "610.00",
-      "status": "3"
-    },
     "INMB|69248|20260404|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
       "time": "11:30 AM",
@@ -590,7 +438,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "950.00",
-      "status": "1"
+      "status": "0"
     },
     "INMB|69248|20260404|CLASSIC PLUS ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
@@ -638,7 +486,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "1030.00",
-      "status": "1"
+      "status": "0"
     },
     "INMB|69250|20260404|CLASSIC ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
