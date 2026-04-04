@@ -86,7 +86,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "1320.00",
-      "status": "2"
+      "status": "1"
     },
     "PVFF|45787|20260404|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -126,46 +126,6 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "1320.00",
-      "status": "3"
-    },
-    "PVER|47733|20260404|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:35 AM",
-      "date": "20260404",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "950.00",
-      "status": "0"
-    },
-    "PVER|47733|20260404|PICTURE  PERFECT": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:35 AM",
-      "date": "20260404",
-      "cat": "PICTURE  PERFECT",
-      "price": "900.00",
-      "status": "0"
-    },
-    "PVER|47733|20260404|PRIME ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:35 AM",
-      "date": "20260404",
-      "cat": "PRIME ROWS",
-      "price": "850.00",
-      "status": "0"
-    },
-    "PVER|47733|20260404|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:35 AM",
-      "date": "20260404",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "830.00",
-      "status": "0"
-    },
-    "PVER|47733|20260404|CLASSIC ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "10:35 AM",
-      "date": "20260404",
-      "cat": "CLASSIC ROWS",
-      "price": "800.00",
       "status": "2"
     },
     "PVER|47737|20260404|EXTRA LEGROOM ROWS": {
@@ -222,7 +182,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "1250.00",
-      "status": "0"
+      "status": "1"
     },
     "PVWW|33856|20260404|CLASSIC PLUS ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -454,7 +414,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1050.00",
-      "status": "1"
+      "status": "0"
     },
     "INMB|69250|20260404|PRIME ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
