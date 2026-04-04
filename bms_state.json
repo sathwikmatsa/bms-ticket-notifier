@@ -86,7 +86,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "1320.00",
-      "status": "1"
+      "status": "2"
     },
     "PVFF|45787|20260404|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -126,7 +126,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "1320.00",
-      "status": "2"
+      "status": "3"
     },
     "PVER|47737|20260404|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -454,7 +454,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "1050.00",
-      "status": "3"
+      "status": "2"
     },
     "INMB|69252|20260404|PRIME ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
