@@ -6,7 +6,7 @@
       "date": "20260404",
       "cat": "NORMAL",
       "price": "1200.00",
-      "status": "2"
+      "status": "1"
     },
     "CFBS|2508|20260404|EXECUTIVE": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -102,7 +102,7 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "800.00",
-      "status": "2"
+      "status": "1"
     },
     "INRZ|63308|20260404|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
