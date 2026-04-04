@@ -30,7 +30,7 @@
       "date": "20260404",
       "cat": "NORMAL",
       "price": "1200.00",
-      "status": "3"
+      "status": "2"
     },
     "CFBS|2507|20260404|EXECUTIVE": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -261,7 +261,7 @@
       "time": "11:30 AM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "1000.00",
+      "price": "1050.00",
       "status": "3"
     },
     "PVWW|33858|20260404|PICTURE  PERFECT": {
@@ -325,7 +325,7 @@
       "time": "11:30 AM",
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "840.00",
+      "price": "860.00",
       "status": "2"
     },
     "INRZ|63304|20260404|CLASSIC ROWS": {
@@ -406,7 +406,7 @@
       "date": "20260404",
       "cat": "CLASSIC PLUS ROWS",
       "price": "840.00",
-      "status": "3"
+      "status": "2"
     },
     "INRZ|63308|20260404|CLASSIC ROWS": {
       "venue": "INOX: Galleria Mall, Yelahanka",
@@ -540,7 +540,7 @@
   "dates": {
     "20260404": "BOOKABLE",
     "20260405": "AVAILABLE",
-    "20260406": "NOT_OPEN",
+    "20260406": "AVAILABLE",
     "20260407": "NOT_OPEN",
     "20260408": "NOT_OPEN",
     "20260409": "NOT_OPEN",
