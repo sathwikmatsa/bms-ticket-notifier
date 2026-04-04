@@ -1,29 +1,5 @@
 {
   "shows": {
-    "CFBS|2508|20260404|NORMAL": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "NORMAL",
-      "price": "1200.00",
-      "status": "0"
-    },
-    "CFBS|2508|20260404|EXECUTIVE": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "EXECUTIVE",
-      "price": "1250.00",
-      "status": "0"
-    },
-    "CFBS|2508|20260404|PREMIUM": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:30 PM",
-      "date": "20260404",
-      "cat": "PREMIUM",
-      "price": "1300.00",
-      "status": "0"
-    },
     "PVER|47737|20260404|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "10:30 PM",
