@@ -141,7 +141,7 @@
       "time": "10:30 PM",
       "date": "20260404",
       "cat": "CLASSIC ROWS",
-      "price": "800.00",
+      "price": "820.00",
       "status": "3"
     },
     "INMB|69252|20260404|EXTRA LEGROOM ROWS": {
@@ -174,7 +174,7 @@
       "date": "20260404",
       "cat": "PRIME ROWS",
       "price": "1030.00",
-      "status": "1"
+      "status": "0"
     },
     "INMB|69252|20260404|CLASSIC ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
