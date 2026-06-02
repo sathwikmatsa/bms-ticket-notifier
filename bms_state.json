@@ -14,7 +14,7 @@
       "date": "20260604",
       "cat": "GRAND",
       "price": "600.00",
-      "status": "3"
+      "status": "2"
     },
     "ACKB|6280|20260604|CLASSIC": {
       "venue": "AMB Cinemas Kapali: Bengaluru",
@@ -582,7 +582,7 @@
       "date": "20260604",
       "cat": "BUSINESS CLASS",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "VCTP|12601|20260604|PREMIUM": {
       "venue": "V Cinemas: T.C Palya Main Road, Ramamurthy Nagar",
@@ -678,7 +678,7 @@
       "date": "20260604",
       "cat": "BUSINESS CLASS",
       "price": "300.00",
-      "status": "1"
+      "status": "0"
     },
     "VCTP|12604|20260604|PREMIUM": {
       "venue": "V Cinemas: T.C Palya Main Road, Ramamurthy Nagar",
@@ -774,7 +774,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "TDCA|926|20260604|PREMIUM": {
       "venue": "Sri Thirumala 4K A/C Dolby Atmos: Agara",
@@ -894,7 +894,7 @@
       "date": "20260604",
       "cat": "BOX A",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "SATB|1228|20260604|GOLD": {
       "venue": "Sandhya Cinema: Bengaluru",
@@ -2920,20 +2920,20 @@
       "price": "200.00",
       "status": "3"
     },
-    "ASTB|25442|20260604|Classic": {
-      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "09:30 AM",
-      "date": "20260604",
-      "cat": "Classic",
-      "price": "150.00",
-      "status": "3"
-    },
     "ASTB|25442|20260604|Premium": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
       "time": "09:30 AM",
       "date": "20260604",
       "cat": "Premium",
       "price": "200.00",
+      "status": "3"
+    },
+    "ASTB|25442|20260604|Classic": {
+      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
+      "time": "09:30 AM",
+      "date": "20260604",
+      "cat": "Classic",
+      "price": "150.00",
       "status": "3"
     },
     "ASTB|25443|20260604|Premium": {
@@ -2952,20 +2952,20 @@
       "price": "150.00",
       "status": "3"
     },
-    "ASTB|25444|20260604|Classic": {
-      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "04:15 PM",
-      "date": "20260604",
-      "cat": "Classic",
-      "price": "150.00",
-      "status": "3"
-    },
     "ASTB|25444|20260604|Premium": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
       "time": "04:15 PM",
       "date": "20260604",
       "cat": "Premium",
       "price": "200.00",
+      "status": "3"
+    },
+    "ASTB|25444|20260604|Classic": {
+      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
+      "time": "04:15 PM",
+      "date": "20260604",
+      "cat": "Classic",
+      "price": "150.00",
       "status": "3"
     },
     "ASTB|25445|20260604|Premium": {
@@ -3038,7 +3038,7 @@
       "date": "20260604",
       "cat": "DIAMOND CLASS",
       "price": "250.00",
-      "status": "2"
+      "status": "3"
     },
     "SIDA|15480|20260604|GOLD": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3046,7 +3046,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "1"
+      "status": "3"
     },
     "SIDA|15481|20260604|DIAMOND CLASS": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3398,7 +3398,7 @@
       "date": "20260604",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "0"
+      "status": "3"
     },
     "SVYK|13424|20260604|BOX": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3406,7 +3406,7 @@
       "date": "20260604",
       "cat": "BOX",
       "price": "300.00",
-      "status": "0"
+      "status": "3"
     },
     "SVYK|13424|20260604|GOLD": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3414,7 +3414,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "0"
+      "status": "3"
     },
     "SVYK|13424|20260604|SILVER": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3422,7 +3422,7 @@
       "date": "20260604",
       "cat": "SILVER",
       "price": "200.00",
-      "status": "2"
+      "status": "3"
     },
     "SVYK|13425|20260604|RECLINER": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3462,7 +3462,7 @@
       "date": "20260604",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "0"
+      "status": "3"
     },
     "SVYK|13426|20260604|BOX": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3470,7 +3470,7 @@
       "date": "20260604",
       "cat": "BOX",
       "price": "300.00",
-      "status": "0"
+      "status": "3"
     },
     "SVYK|13426|20260604|GOLD": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3478,7 +3478,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "1"
+      "status": "3"
     },
     "SVYK|13426|20260604|SILVER": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3486,7 +3486,7 @@
       "date": "20260604",
       "cat": "SILVER",
       "price": "200.00",
-      "status": "2"
+      "status": "3"
     },
     "SVYK|13427|20260604|RECLINER": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3494,7 +3494,7 @@
       "date": "20260604",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "0"
+      "status": "3"
     },
     "SVYK|13427|20260604|BOX": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3502,7 +3502,7 @@
       "date": "20260604",
       "cat": "BOX",
       "price": "300.00",
-      "status": "0"
+      "status": "3"
     },
     "SVYK|13427|20260604|GOLD": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3510,7 +3510,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "1"
+      "status": "3"
     },
     "SVYK|13427|20260604|SILVER": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3518,7 +3518,7 @@
       "date": "20260604",
       "cat": "SILVER",
       "price": "200.00",
-      "status": "2"
+      "status": "3"
     },
     "SVYK|13428|20260604|RECLINER": {
       "venue": "Sri Vinayaka Cinemas 4K Dolby 7.1 (A/C): Varthur",
@@ -3824,70 +3824,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "SVKT|8325|20260604|GOLD": {
-      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
-      "time": "10:30 AM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SVKT|8325|20260604|BOX": {
-      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
-      "time": "10:30 AM",
-      "date": "20260604",
-      "cat": "BOX",
-      "price": "200.00",
-      "status": "0"
-    },
-    "SVKT|8326|20260604|GOLD": {
-      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
-      "time": "01:45 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SVKT|8326|20260604|BOX": {
-      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
-      "time": "01:45 PM",
-      "date": "20260604",
-      "cat": "BOX",
-      "price": "200.00",
-      "status": "0"
-    },
-    "SVKT|8327|20260604|GOLD": {
-      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
-      "time": "05:15 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SVKT|8327|20260604|BOX": {
-      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
-      "time": "05:15 PM",
-      "date": "20260604",
-      "cat": "BOX",
-      "price": "200.00",
-      "status": "0"
-    },
-    "SVKT|8328|20260604|GOLD": {
-      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
-      "time": "09:00 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SVKT|8328|20260604|BOX": {
-      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
-      "time": "09:00 PM",
-      "date": "20260604",
-      "cat": "BOX",
-      "price": "200.00",
-      "status": "0"
-    },
     "GDAK|16676|20260604|Gold": {
       "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
       "time": "10:30 AM",
@@ -3904,14 +3840,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "GDAK|16678|20260604|Silver Class": {
-      "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
-      "time": "01:30 PM",
-      "date": "20260604",
-      "cat": "Silver Class",
-      "price": "200.00",
-      "status": "3"
-    },
     "GDAK|16678|20260604|Gold": {
       "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
       "time": "01:30 PM",
@@ -3920,12 +3848,12 @@
       "price": "250.00",
       "status": "3"
     },
-    "GDAK|16677|20260604|Gold": {
+    "GDAK|16678|20260604|Silver Class": {
       "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
-      "time": "05:30 PM",
+      "time": "01:30 PM",
       "date": "20260604",
-      "cat": "Gold",
-      "price": "250.00",
+      "cat": "Silver Class",
+      "price": "200.00",
       "status": "3"
     },
     "GDAK|16677|20260604|Silver Class": {
@@ -3934,6 +3862,14 @@
       "date": "20260604",
       "cat": "Silver Class",
       "price": "200.00",
+      "status": "3"
+    },
+    "GDAK|16677|20260604|Gold": {
+      "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
+      "time": "05:30 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "250.00",
       "status": "3"
     },
     "GDAK|16679|20260604|Gold": {
