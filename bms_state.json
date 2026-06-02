@@ -46,7 +46,7 @@
       "date": "20260604",
       "cat": "MAJESTIC",
       "price": "700.00",
-      "status": "2"
+      "status": "1"
     },
     "ACKB|6311|20260604|GRAND": {
       "venue": "AMB Cinemas Kapali: Bengaluru",
@@ -358,7 +358,7 @@
       "date": "20260604",
       "cat": "FIRST CLASS",
       "price": "200.00",
-      "status": "3"
+      "status": "2"
     },
     "SKMM|7834|20260604|BALCONY": {
       "venue": "Sri Krishna Lazer Projection 4K: Bomanahalli",
@@ -774,7 +774,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "0"
+      "status": "1"
     },
     "TDCA|926|20260604|PREMIUM": {
       "venue": "Sri Thirumala 4K A/C Dolby Atmos: Agara",
@@ -798,7 +798,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "220.00",
-      "status": "3"
+      "status": "2"
     },
     "TDCA|927|20260604|PREMIUM": {
       "venue": "Sri Thirumala 4K A/C Dolby Atmos: Agara",
@@ -894,7 +894,7 @@
       "date": "20260604",
       "cat": "BOX A",
       "price": "250.00",
-      "status": "0"
+      "status": "1"
     },
     "SATB|1228|20260604|GOLD": {
       "venue": "Sandhya Cinema: Bengaluru",
@@ -926,7 +926,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "SATB|1229|20260604|SILVER": {
       "venue": "Sandhya Cinema: Bengaluru",
@@ -2478,7 +2478,7 @@
       "date": "20260604",
       "cat": "RECLINER",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "PTBK|10552|20260604|PREMIUM": {
       "venue": "Pushpanjali B N Pura: A/C 2K Dolby 7.1",
@@ -2920,20 +2920,20 @@
       "price": "200.00",
       "status": "3"
     },
-    "ASTB|25442|20260604|Premium": {
-      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "09:30 AM",
-      "date": "20260604",
-      "cat": "Premium",
-      "price": "200.00",
-      "status": "3"
-    },
     "ASTB|25442|20260604|Classic": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
       "time": "09:30 AM",
       "date": "20260604",
       "cat": "Classic",
       "price": "150.00",
+      "status": "3"
+    },
+    "ASTB|25442|20260604|Premium": {
+      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
+      "time": "09:30 AM",
+      "date": "20260604",
+      "cat": "Premium",
+      "price": "200.00",
       "status": "3"
     },
     "ASTB|25443|20260604|Premium": {
@@ -2984,20 +2984,20 @@
       "price": "150.00",
       "status": "3"
     },
-    "ASTB|25446|20260604|Classic": {
-      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "10:45 PM",
-      "date": "20260604",
-      "cat": "Classic",
-      "price": "150.00",
-      "status": "3"
-    },
     "ASTB|25446|20260604|Premium": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
       "time": "10:45 PM",
       "date": "20260604",
       "cat": "Premium",
       "price": "200.00",
+      "status": "3"
+    },
+    "ASTB|25446|20260604|Classic": {
+      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
+      "time": "10:45 PM",
+      "date": "20260604",
+      "cat": "Classic",
+      "price": "150.00",
       "status": "3"
     },
     "SIDA|15482|20260604|DIAMOND CLASS": {
@@ -3046,7 +3046,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "2"
+      "status": "1"
     },
     "SIDA|15481|20260604|DIAMOND CLASS": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3144,67 +3144,67 @@
       "price": "200.00",
       "status": "3"
     },
-    "VYCH|7132|20260604|PLATINUM SOFA": {
-      "venue": "Vinayaka Cinemas 4K Dolby 11.5 A/C 3D: Harinagar",
+    "SBCR|10525|20260604|DIAMOND": {
+      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
       "time": "10:30 AM",
       "date": "20260604",
-      "cat": "PLATINUM SOFA",
+      "cat": "DIAMOND",
       "price": "250.00",
       "status": "3"
     },
-    "VYCH|7132|20260604|DIAMOMD": {
-      "venue": "Vinayaka Cinemas 4K Dolby 11.5 A/C 3D: Harinagar",
+    "SBCR|10525|20260604|GOLD": {
+      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
       "time": "10:30 AM",
       "date": "20260604",
-      "cat": "DIAMOMD",
+      "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
-    "VYCH|7133|20260604|PLATINUM SOFA": {
-      "venue": "Vinayaka Cinemas 4K Dolby 11.5 A/C 3D: Harinagar",
+    "SBCR|10526|20260604|DIAMOND": {
+      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
       "time": "02:00 PM",
       "date": "20260604",
-      "cat": "PLATINUM SOFA",
+      "cat": "DIAMOND",
       "price": "250.00",
       "status": "3"
     },
-    "VYCH|7133|20260604|DIAMOMD": {
-      "venue": "Vinayaka Cinemas 4K Dolby 11.5 A/C 3D: Harinagar",
+    "SBCR|10526|20260604|GOLD": {
+      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
       "time": "02:00 PM",
       "date": "20260604",
-      "cat": "DIAMOMD",
+      "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
-    "VYCH|7134|20260604|PLATINUM SOFA": {
-      "venue": "Vinayaka Cinemas 4K Dolby 11.5 A/C 3D: Harinagar",
-      "time": "06:15 PM",
+    "SBCR|10527|20260604|DIAMOND": {
+      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
+      "time": "06:00 PM",
       "date": "20260604",
-      "cat": "PLATINUM SOFA",
+      "cat": "DIAMOND",
       "price": "250.00",
       "status": "3"
     },
-    "VYCH|7134|20260604|DIAMOMD": {
-      "venue": "Vinayaka Cinemas 4K Dolby 11.5 A/C 3D: Harinagar",
-      "time": "06:15 PM",
+    "SBCR|10527|20260604|GOLD": {
+      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
+      "time": "06:00 PM",
       "date": "20260604",
-      "cat": "DIAMOMD",
+      "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
-    "VYCH|7135|20260604|PLATINUM SOFA": {
-      "venue": "Vinayaka Cinemas 4K Dolby 11.5 A/C 3D: Harinagar",
+    "SBCR|10528|20260604|DIAMOND": {
+      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
       "time": "09:45 PM",
       "date": "20260604",
-      "cat": "PLATINUM SOFA",
+      "cat": "DIAMOND",
       "price": "250.00",
       "status": "3"
     },
-    "VYCH|7135|20260604|DIAMOMD": {
-      "venue": "Vinayaka Cinemas 4K Dolby 11.5 A/C 3D: Harinagar",
+    "SBCR|10528|20260604|GOLD": {
+      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
       "time": "09:45 PM",
       "date": "20260604",
-      "cat": "DIAMOMD",
+      "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
@@ -3566,7 +3566,7 @@
       "date": "20260604",
       "cat": "SILVER",
       "price": "200.00",
-      "status": "3"
+      "status": "2"
     },
     "RKTB|10243|20260604|GOLD": {
       "venue": "Sri Radhakrishna Theatre, 4K Dolby Atmos: RT Nagar",
@@ -3824,6 +3824,70 @@
       "price": "200.00",
       "status": "3"
     },
+    "SVKT|8325|20260604|GOLD": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "10:30 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SVKT|8325|20260604|BOX": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "10:30 AM",
+      "date": "20260604",
+      "cat": "BOX",
+      "price": "200.00",
+      "status": "0"
+    },
+    "SVKT|8326|20260604|GOLD": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "01:45 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SVKT|8326|20260604|BOX": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "01:45 PM",
+      "date": "20260604",
+      "cat": "BOX",
+      "price": "200.00",
+      "status": "0"
+    },
+    "SVKT|8327|20260604|GOLD": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "05:15 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SVKT|8327|20260604|BOX": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "05:15 PM",
+      "date": "20260604",
+      "cat": "BOX",
+      "price": "200.00",
+      "status": "0"
+    },
+    "SVKT|8328|20260604|GOLD": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "09:00 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SVKT|8328|20260604|BOX": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "09:00 PM",
+      "date": "20260604",
+      "cat": "BOX",
+      "price": "200.00",
+      "status": "0"
+    },
     "GDAK|16676|20260604|Gold": {
       "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
       "time": "10:30 AM",
@@ -3888,6 +3952,86 @@
       "price": "200.00",
       "status": "3"
     },
+    "SSPA|12581|20260604|GOLD": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SSPA|12581|20260604|SOFA": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "SOFA",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SSPA|12582|20260604|GOLD": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "11:00 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SSPA|12582|20260604|SOFA": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "11:00 AM",
+      "date": "20260604",
+      "cat": "SOFA",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SSPA|12583|20260604|GOLD": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "02:30 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SSPA|12583|20260604|SOFA": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "02:30 PM",
+      "date": "20260604",
+      "cat": "SOFA",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SSPA|12584|20260604|GOLD": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "06:00 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SSPA|12584|20260604|SOFA": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "06:00 PM",
+      "date": "20260604",
+      "cat": "SOFA",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SSPA|12585|20260604|GOLD": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "09:45 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SSPA|12585|20260604|SOFA": {
+      "venue": "Sri Srinivasa 4K Dolby Digital 7.1 Padmanabanagara",
+      "time": "09:45 PM",
+      "date": "20260604",
+      "cat": "SOFA",
+      "price": "250.00",
+      "status": "3"
+    },
     "SNDC|20309|20260604|Gold": {
       "venue": "Sri Narayani Theatre 2K A/C DOLBY ATMOS: Kolar",
       "time": "06:20 AM",
@@ -3910,7 +4054,7 @@
       "date": "20260604",
       "cat": "Gold",
       "price": "220.00",
-      "status": "3"
+      "status": "2"
     },
     "SNDC|20311|20260604|Silver": {
       "venue": "Sri Narayani Theatre 2K A/C DOLBY ATMOS: Kolar",
@@ -4200,46 +4344,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "SRHK|20770|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "07:00 AM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20771|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "11:00 AM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20772|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "02:30 PM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20774|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "06:00 PM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20773|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "09:30 PM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
     "PTYK|13125|20260604|Gold": {
       "venue": "Prakash Theatre: Yelahanka",
       "time": "09:30 AM",
@@ -4352,67 +4456,43 @@
       "price": "200.00",
       "status": "3"
     },
-    "TRIG|4955|20260604|GOLD": {
-      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
-      "time": "10:00 AM",
+    "SRHK|20770|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "07:00 AM",
       "date": "20260604",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "TRIG|4955|20260604|SILVER": {
-      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
-      "time": "10:00 AM",
-      "date": "20260604",
-      "cat": "SILVER",
+      "cat": "Balcony ",
       "price": "200.00",
       "status": "3"
     },
-    "TRIG|4956|20260604|GOLD": {
-      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
-      "time": "01:15 PM",
+    "SRHK|20771|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "11:00 AM",
       "date": "20260604",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "TRIG|4956|20260604|SILVER": {
-      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
-      "time": "01:15 PM",
-      "date": "20260604",
-      "cat": "SILVER",
+      "cat": "Balcony ",
       "price": "200.00",
       "status": "3"
     },
-    "TRIG|4957|20260604|GOLD": {
-      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
-      "time": "04:45 PM",
+    "SRHK|20772|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "02:30 PM",
       "date": "20260604",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "TRIG|4957|20260604|SILVER": {
-      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
-      "time": "04:45 PM",
-      "date": "20260604",
-      "cat": "SILVER",
+      "cat": "Balcony ",
       "price": "200.00",
       "status": "3"
     },
-    "TRIG|4958|20260604|GOLD": {
-      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
-      "time": "08:00 PM",
+    "SRHK|20774|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "06:00 PM",
       "date": "20260604",
-      "cat": "GOLD",
-      "price": "250.00",
+      "cat": "Balcony ",
+      "price": "200.00",
       "status": "3"
     },
-    "TRIG|4958|20260604|SILVER": {
-      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
-      "time": "08:00 PM",
+    "SRHK|20773|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "09:30 PM",
       "date": "20260604",
-      "cat": "SILVER",
+      "cat": "Balcony ",
       "price": "200.00",
       "status": "3"
     },
@@ -4509,6 +4589,70 @@
       "time": "10:30 PM",
       "date": "20260604",
       "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "TRIG|4955|20260604|GOLD": {
+      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
+      "time": "10:00 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "TRIG|4955|20260604|SILVER": {
+      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
+      "time": "10:00 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "TRIG|4956|20260604|GOLD": {
+      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
+      "time": "01:15 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "TRIG|4956|20260604|SILVER": {
+      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
+      "time": "01:15 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "TRIG|4957|20260604|GOLD": {
+      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
+      "time": "04:45 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "TRIG|4957|20260604|SILVER": {
+      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
+      "time": "04:45 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "TRIG|4958|20260604|GOLD": {
+      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
+      "time": "08:00 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "TRIG|4958|20260604|SILVER": {
+      "venue": "Triveni Theatre A/C 3D 4K Dolby: Gandhinagar",
+      "time": "08:00 PM",
+      "date": "20260604",
+      "cat": "SILVER",
       "price": "200.00",
       "status": "3"
     },
