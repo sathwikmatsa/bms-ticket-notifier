@@ -504,61 +504,85 @@
       "price": "600.00",
       "status": "3"
     },
-    "GPAM|91249|20260604|GOLD": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "10:00 AM",
+    "BKDV|11362|20260604|GOLD": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "07:00 AM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "450.00",
-      "status": "3"
+      "price": "250.00",
+      "status": "0"
     },
-    "GPAM|91253|20260604|GOLD": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "12:00 PM",
+    "BKDV|11362|20260604|SILVER": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "07:00 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "1"
+    },
+    "BKDV|11363|20260604|GOLD": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "10:30 AM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "500.00",
-      "status": "3"
+      "price": "250.00",
+      "status": "2"
     },
-    "GPAM|91253|20260604|RECLINER": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "12:00 PM",
+    "BKDV|11363|20260604|SILVER": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "10:30 AM",
       "date": "20260604",
-      "cat": "RECLINER",
-      "price": "800.00",
+      "cat": "SILVER",
+      "price": "200.00",
       "status": "3"
     },
-    "GPAM|91254|20260604|GOLD": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "03:30 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "500.00",
-      "status": "3"
-    },
-    "GPAM|91254|20260604|RECLINER": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "03:30 PM",
-      "date": "20260604",
-      "cat": "RECLINER",
-      "price": "800.00",
-      "status": "3"
-    },
-    "GPAM|91250|20260604|GOLD": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "06:45 PM",
+    "BKDV|11364|20260604|GOLD": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "02:00 PM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "500.00",
+      "price": "250.00",
       "status": "3"
     },
-    "GPAM|91251|20260604|GOLD": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "10:20 PM",
+    "BKDV|11364|20260604|SILVER": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "02:00 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "BKDV|11365|20260604|GOLD": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "06:00 PM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "500.00",
+      "price": "250.00",
+      "status": "1"
+    },
+    "BKDV|11365|20260604|SILVER": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "06:00 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
       "status": "3"
+    },
+    "BKDV|11366|20260604|GOLD": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "09:45 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "1"
+    },
+    "BKDV|11366|20260604|SILVER": {
+      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
+      "time": "09:45 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "2"
     },
     "VCTP|12592|20260604|BUSINESS CLASS": {
       "venue": "V Cinemas: T.C Palya Main Road, Ramamurthy Nagar",
@@ -688,85 +712,61 @@
       "price": "250.00",
       "status": "3"
     },
-    "BKDV|11362|20260604|GOLD": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "07:00 AM",
+    "GPAM|91249|20260604|GOLD": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "10:00 AM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "250.00",
-      "status": "0"
-    },
-    "BKDV|11362|20260604|SILVER": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "07:00 AM",
-      "date": "20260604",
-      "cat": "SILVER",
-      "price": "200.00",
-      "status": "1"
-    },
-    "BKDV|11363|20260604|GOLD": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "10:30 AM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "2"
-    },
-    "BKDV|11363|20260604|SILVER": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "10:30 AM",
-      "date": "20260604",
-      "cat": "SILVER",
-      "price": "200.00",
+      "price": "450.00",
       "status": "3"
     },
-    "BKDV|11364|20260604|GOLD": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "02:00 PM",
+    "GPAM|91253|20260604|GOLD": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "12:00 PM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "250.00",
+      "price": "500.00",
       "status": "3"
     },
-    "BKDV|11364|20260604|SILVER": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "02:00 PM",
+    "GPAM|91253|20260604|RECLINER": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "12:00 PM",
       "date": "20260604",
-      "cat": "SILVER",
-      "price": "200.00",
+      "cat": "RECLINER",
+      "price": "800.00",
       "status": "3"
     },
-    "BKDV|11365|20260604|GOLD": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "06:00 PM",
+    "GPAM|91254|20260604|GOLD": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "03:30 PM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "250.00",
-      "status": "1"
-    },
-    "BKDV|11365|20260604|SILVER": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "06:00 PM",
-      "date": "20260604",
-      "cat": "SILVER",
-      "price": "200.00",
+      "price": "500.00",
       "status": "3"
     },
-    "BKDV|11366|20260604|GOLD": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "09:45 PM",
+    "GPAM|91254|20260604|RECLINER": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "03:30 PM",
+      "date": "20260604",
+      "cat": "RECLINER",
+      "price": "800.00",
+      "status": "3"
+    },
+    "GPAM|91250|20260604|GOLD": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "06:45 PM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "250.00",
-      "status": "1"
+      "price": "500.00",
+      "status": "3"
     },
-    "BKDV|11366|20260604|SILVER": {
-      "venue": "Brundha RGB Laser 4K Projection: Hongasandra DMart",
-      "time": "09:45 PM",
+    "GPAM|91251|20260604|GOLD": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "10:20 PM",
       "date": "20260604",
-      "cat": "SILVER",
-      "price": "200.00",
-      "status": "2"
+      "cat": "GOLD",
+      "price": "500.00",
+      "status": "3"
     },
     "TDCA|926|20260604|GOLD": {
       "venue": "Sri Thirumala 4K A/C Dolby Atmos: Agara",
@@ -2936,14 +2936,6 @@
       "price": "150.00",
       "status": "3"
     },
-    "ASTB|25443|20260604|Classic": {
-      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "12:50 PM",
-      "date": "20260604",
-      "cat": "Classic",
-      "price": "150.00",
-      "status": "3"
-    },
     "ASTB|25443|20260604|Premium": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
       "time": "12:50 PM",
@@ -2952,12 +2944,12 @@
       "price": "200.00",
       "status": "3"
     },
-    "ASTB|25444|20260604|Premium": {
+    "ASTB|25443|20260604|Classic": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "04:15 PM",
+      "time": "12:50 PM",
       "date": "20260604",
-      "cat": "Premium",
-      "price": "200.00",
+      "cat": "Classic",
+      "price": "150.00",
       "status": "3"
     },
     "ASTB|25444|20260604|Classic": {
@@ -2968,12 +2960,12 @@
       "price": "150.00",
       "status": "3"
     },
-    "ASTB|25445|20260604|Classic": {
+    "ASTB|25444|20260604|Premium": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "07:30 PM",
+      "time": "04:15 PM",
       "date": "20260604",
-      "cat": "Classic",
-      "price": "150.00",
+      "cat": "Premium",
+      "price": "200.00",
       "status": "3"
     },
     "ASTB|25445|20260604|Premium": {
@@ -2984,12 +2976,12 @@
       "price": "200.00",
       "status": "3"
     },
-    "ASTB|25446|20260604|Premium": {
+    "ASTB|25445|20260604|Classic": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "10:45 PM",
+      "time": "07:30 PM",
       "date": "20260604",
-      "cat": "Premium",
-      "price": "200.00",
+      "cat": "Classic",
+      "price": "150.00",
       "status": "3"
     },
     "ASTB|25446|20260604|Classic": {
@@ -2998,6 +2990,14 @@
       "date": "20260604",
       "cat": "Classic",
       "price": "150.00",
+      "status": "3"
+    },
+    "ASTB|25446|20260604|Premium": {
+      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
+      "time": "10:45 PM",
+      "date": "20260604",
+      "cat": "Premium",
+      "price": "200.00",
       "status": "3"
     },
     "SIDA|15482|20260604|DIAMOND CLASS": {
@@ -3022,7 +3022,7 @@
       "date": "20260604",
       "cat": "DIAMOND CLASS",
       "price": "250.00",
-      "status": "2"
+      "status": "3"
     },
     "SIDA|15479|20260604|GOLD": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3030,7 +3030,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "2"
+      "status": "3"
     },
     "SIDA|15480|20260604|DIAMOND CLASS": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3038,7 +3038,7 @@
       "date": "20260604",
       "cat": "DIAMOND CLASS",
       "price": "250.00",
-      "status": "2"
+      "status": "3"
     },
     "SIDA|15480|20260604|GOLD": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3046,7 +3046,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "1"
+      "status": "3"
     },
     "SIDA|15481|20260604|DIAMOND CLASS": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3054,7 +3054,7 @@
       "date": "20260604",
       "cat": "DIAMOND CLASS",
       "price": "250.00",
-      "status": "2"
+      "status": "3"
     },
     "SIDA|15481|20260604|GOLD": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3062,7 +3062,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "1"
+      "status": "3"
     },
     "VBWT|3602|20260604|BALCONY": {
       "venue": "Veerabhadreshwara Theatre 4KDOLBY 7.1 Kamala Nagar",
@@ -3262,7 +3262,7 @@
       "date": "20260604",
       "cat": "VIP",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "SAED|5153|20260604|PREMIUM": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -3278,7 +3278,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "2"
+      "status": "1"
     },
     "SAED|5154|20260604|VIP": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -3286,7 +3286,7 @@
       "date": "20260604",
       "cat": "VIP",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "SAED|5154|20260604|PREMIUM": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -3302,7 +3302,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "2"
+      "status": "1"
     },
     "SAED|5155|20260604|VIP": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -3310,7 +3310,7 @@
       "date": "20260604",
       "cat": "VIP",
       "price": "250.00",
-      "status": "0"
+      "status": "1"
     },
     "SAED|5155|20260604|PREMIUM": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -3326,7 +3326,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "0"
+      "status": "2"
     },
     "GDTY|22425|20260604|Balcony Class": {
       "venue": "Goverdhan Theatre: Yeshwantpur",
