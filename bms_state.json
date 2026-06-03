@@ -318,7 +318,7 @@
       "date": "20260604",
       "cat": "SOFA",
       "price": "650.00",
-      "status": "3"
+      "status": "2"
     },
     "GPGM|105586|20260604|GOLD": {
       "venue": "Gopalan Grand Mall: Old Madras Road",
@@ -670,7 +670,7 @@
       "date": "20260604",
       "cat": "BUSINESS CLASS",
       "price": "300.00",
-      "status": "1"
+      "status": "0"
     },
     "VCTP|12603|20260604|PREMIUM": {
       "venue": "V Cinemas: T.C Palya Main Road, Ramamurthy Nagar",
@@ -678,7 +678,7 @@
       "date": "20260604",
       "cat": "PREMIUM",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "VCTP|12595|20260604|BUSINESS CLASS": {
       "venue": "V Cinemas: T.C Palya Main Road, Ramamurthy Nagar",
@@ -966,7 +966,7 @@
       "date": "20260604",
       "cat": "BOX A",
       "price": "250.00",
-      "status": "0"
+      "status": "1"
     },
     "SATB|1231|20260604|GOLD": {
       "venue": "Sandhya Cinema: Bengaluru",
@@ -1648,6 +1648,166 @@
       "price": "350.00",
       "status": "3"
     },
+    "SSNR|12450|20260604|GOLDRECLINER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "GOLDRECLINER",
+      "price": "450.00",
+      "status": "3"
+    },
+    "SSNR|12450|20260604|GOLD": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "270.00",
+      "status": "3"
+    },
+    "SSNR|12450|20260604|SILVER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SSNR|12450|20260604|LOUNGER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "LOUNGER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SSNR|12451|20260604|GOLDRECLINER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:00 AM",
+      "date": "20260604",
+      "cat": "GOLDRECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "SSNR|12451|20260604|GOLD": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:00 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "300.00",
+      "status": "3"
+    },
+    "SSNR|12451|20260604|SILVER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:00 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "220.00",
+      "status": "3"
+    },
+    "SSNR|12451|20260604|LOUNGER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:00 AM",
+      "date": "20260604",
+      "cat": "LOUNGER",
+      "price": "220.00",
+      "status": "3"
+    },
+    "SSNR|12452|20260604|GOLDRECLINER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "01:30 PM",
+      "date": "20260604",
+      "cat": "GOLDRECLINER",
+      "price": "550.00",
+      "status": "3"
+    },
+    "SSNR|12452|20260604|GOLD": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "01:30 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "320.00",
+      "status": "3"
+    },
+    "SSNR|12452|20260604|SILVER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "01:30 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "230.00",
+      "status": "3"
+    },
+    "SSNR|12452|20260604|LOUNGER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "01:30 PM",
+      "date": "20260604",
+      "cat": "LOUNGER",
+      "price": "230.00",
+      "status": "3"
+    },
+    "SSNR|12454|20260604|GOLDRECLINER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "07:00 PM",
+      "date": "20260604",
+      "cat": "GOLDRECLINER",
+      "price": "600.00",
+      "status": "3"
+    },
+    "SSNR|12454|20260604|GOLD": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "07:00 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "SSNR|12454|20260604|SILVER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "07:00 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SSNR|12454|20260604|LOUNGER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "07:00 PM",
+      "date": "20260604",
+      "cat": "LOUNGER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SSNR|12455|20260604|GOLDRECLINER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "GOLDRECLINER",
+      "price": "600.00",
+      "status": "3"
+    },
+    "SSNR|12455|20260604|GOLD": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "SSNR|12455|20260604|SILVER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SSNR|12455|20260604|LOUNGER": {
+      "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "LOUNGER",
+      "price": "250.00",
+      "status": "3"
+    },
     "SLTR|11089|20260604|BALCONY": {
       "venue": "Sri Lakshmi A/C 4K Projection: Rammurthy Nagar",
       "time": "07:00 AM",
@@ -1864,6 +2024,126 @@
       "price": "200.00",
       "status": "3"
     },
+    "URBL|24250|20260604|Platinum": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "Platinum",
+      "price": "300.00",
+      "status": "1"
+    },
+    "URBL|24250|20260604|Gold": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "300.00",
+      "status": "1"
+    },
+    "URBL|24250|20260604|Silver": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "06:30 AM",
+      "date": "20260604",
+      "cat": "Silver",
+      "price": "250.00",
+      "status": "2"
+    },
+    "URBL|24232|20260604|Platinum": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "10:30 AM",
+      "date": "20260604",
+      "cat": "Platinum",
+      "price": "300.00",
+      "status": "3"
+    },
+    "URBL|24232|20260604|Gold": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "10:30 AM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "300.00",
+      "status": "3"
+    },
+    "URBL|24232|20260604|Silver": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "10:30 AM",
+      "date": "20260604",
+      "cat": "Silver",
+      "price": "250.00",
+      "status": "3"
+    },
+    "URBL|24233|20260604|Platinum": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "02:15 PM",
+      "date": "20260604",
+      "cat": "Platinum",
+      "price": "300.00",
+      "status": "3"
+    },
+    "URBL|24233|20260604|Gold": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "02:15 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "300.00",
+      "status": "3"
+    },
+    "URBL|24233|20260604|Silver": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "02:15 PM",
+      "date": "20260604",
+      "cat": "Silver",
+      "price": "250.00",
+      "status": "3"
+    },
+    "URBL|24234|20260604|Platinum": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260604",
+      "cat": "Platinum",
+      "price": "300.00",
+      "status": "3"
+    },
+    "URBL|24234|20260604|Gold": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "300.00",
+      "status": "3"
+    },
+    "URBL|24234|20260604|Silver": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "06:00 PM",
+      "date": "20260604",
+      "cat": "Silver",
+      "price": "250.00",
+      "status": "3"
+    },
+    "URBL|24235|20260604|Platinum": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "10:00 PM",
+      "date": "20260604",
+      "cat": "Platinum",
+      "price": "300.00",
+      "status": "3"
+    },
+    "URBL|24235|20260604|Gold": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "10:00 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "300.00",
+      "status": "3"
+    },
+    "URBL|24235|20260604|Silver": {
+      "venue": "Urvashi Cinema: Bengaluru",
+      "time": "10:00 PM",
+      "date": "20260604",
+      "cat": "Silver",
+      "price": "250.00",
+      "status": "3"
+    },
     "GPMY|65418|20260604|GOLD": {
       "venue": "Gopalan Mall: Sirsi Circle",
       "time": "08:30 AM",
@@ -2048,124 +2328,60 @@
       "price": "600.00",
       "status": "3"
     },
-    "URBL|24250|20260604|Platinum": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "06:30 AM",
-      "date": "20260604",
-      "cat": "Platinum",
-      "price": "300.00",
-      "status": "1"
-    },
-    "URBL|24250|20260604|Gold": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "06:30 AM",
+    "GPSM|62575|20260604|Gold": {
+      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+      "time": "08:30 AM",
       "date": "20260604",
       "cat": "Gold",
-      "price": "300.00",
-      "status": "1"
-    },
-    "URBL|24250|20260604|Silver": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "06:30 AM",
-      "date": "20260604",
-      "cat": "Silver",
-      "price": "250.00",
-      "status": "2"
-    },
-    "URBL|24232|20260604|Platinum": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "10:30 AM",
-      "date": "20260604",
-      "cat": "Platinum",
-      "price": "300.00",
+      "price": "500.00",
       "status": "3"
     },
-    "URBL|24232|20260604|Gold": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "10:30 AM",
+    "GPSM|62576|20260604|Gold": {
+      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+      "time": "12:00 PM",
       "date": "20260604",
       "cat": "Gold",
-      "price": "300.00",
+      "price": "500.00",
       "status": "3"
     },
-    "URBL|24232|20260604|Silver": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "10:30 AM",
-      "date": "20260604",
-      "cat": "Silver",
-      "price": "250.00",
-      "status": "3"
-    },
-    "URBL|24233|20260604|Platinum": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "02:15 PM",
-      "date": "20260604",
-      "cat": "Platinum",
-      "price": "300.00",
-      "status": "3"
-    },
-    "URBL|24233|20260604|Gold": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "02:15 PM",
+    "GPSM|62577|20260604|Gold": {
+      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+      "time": "03:30 PM",
       "date": "20260604",
       "cat": "Gold",
-      "price": "300.00",
+      "price": "500.00",
       "status": "3"
     },
-    "URBL|24233|20260604|Silver": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "02:15 PM",
-      "date": "20260604",
-      "cat": "Silver",
-      "price": "250.00",
-      "status": "3"
-    },
-    "URBL|24234|20260604|Platinum": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "06:00 PM",
-      "date": "20260604",
-      "cat": "Platinum",
-      "price": "300.00",
-      "status": "3"
-    },
-    "URBL|24234|20260604|Gold": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "06:00 PM",
+    "GPSM|62588|20260604|Gold": {
+      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+      "time": "06:45 PM",
       "date": "20260604",
       "cat": "Gold",
-      "price": "300.00",
+      "price": "500.00",
       "status": "3"
     },
-    "URBL|24234|20260604|Silver": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "06:00 PM",
-      "date": "20260604",
-      "cat": "Silver",
-      "price": "250.00",
-      "status": "3"
-    },
-    "URBL|24235|20260604|Platinum": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "10:00 PM",
-      "date": "20260604",
-      "cat": "Platinum",
-      "price": "300.00",
-      "status": "3"
-    },
-    "URBL|24235|20260604|Gold": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "10:00 PM",
+    "GPSM|62578|20260604|Gold": {
+      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+      "time": "07:00 PM",
       "date": "20260604",
       "cat": "Gold",
-      "price": "300.00",
+      "price": "500.00",
       "status": "3"
     },
-    "URBL|24235|20260604|Silver": {
-      "venue": "Urvashi Cinema: Bengaluru",
-      "time": "10:00 PM",
+    "GPSM|62589|20260604|Gold": {
+      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+      "time": "10:15 PM",
       "date": "20260604",
-      "cat": "Silver",
-      "price": "250.00",
+      "cat": "Gold",
+      "price": "500.00",
+      "status": "3"
+    },
+    "GPSM|62579|20260604|Gold": {
+      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "500.00",
       "status": "3"
     },
     "VOIB|10140|20260604|PREMIUM": {
@@ -2286,62 +2502,6 @@
       "date": "20260604",
       "cat": "SILVER",
       "price": "200.00",
-      "status": "3"
-    },
-    "GPSM|62575|20260604|Gold": {
-      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
-      "time": "08:30 AM",
-      "date": "20260604",
-      "cat": "Gold",
-      "price": "500.00",
-      "status": "3"
-    },
-    "GPSM|62576|20260604|Gold": {
-      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
-      "time": "12:00 PM",
-      "date": "20260604",
-      "cat": "Gold",
-      "price": "500.00",
-      "status": "3"
-    },
-    "GPSM|62577|20260604|Gold": {
-      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
-      "time": "03:30 PM",
-      "date": "20260604",
-      "cat": "Gold",
-      "price": "500.00",
-      "status": "3"
-    },
-    "GPSM|62588|20260604|Gold": {
-      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
-      "time": "06:45 PM",
-      "date": "20260604",
-      "cat": "Gold",
-      "price": "500.00",
-      "status": "3"
-    },
-    "GPSM|62578|20260604|Gold": {
-      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
-      "time": "07:00 PM",
-      "date": "20260604",
-      "cat": "Gold",
-      "price": "500.00",
-      "status": "3"
-    },
-    "GPSM|62589|20260604|Gold": {
-      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
-      "time": "10:15 PM",
-      "date": "20260604",
-      "cat": "Gold",
-      "price": "500.00",
-      "status": "3"
-    },
-    "GPSM|62579|20260604|Gold": {
-      "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
-      "time": "10:30 PM",
-      "date": "20260604",
-      "cat": "Gold",
-      "price": "500.00",
       "status": "3"
     },
     "NRBL|10330|20260604|BALCONY": {
@@ -2488,6 +2648,86 @@
       "price": "200.00",
       "status": "3"
     },
+    "MRGB|1349|20260604|PLATINUM": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "07:00 AM",
+      "date": "20260604",
+      "cat": "PLATINUM",
+      "price": "300.00",
+      "status": "1"
+    },
+    "MRGB|1349|20260604|GOLD": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "07:00 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "2"
+    },
+    "MRGB|1350|20260604|PLATINUM": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "10:45 AM",
+      "date": "20260604",
+      "cat": "PLATINUM",
+      "price": "300.00",
+      "status": "3"
+    },
+    "MRGB|1350|20260604|GOLD": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "10:45 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "MRGB|1351|20260604|PLATINUM": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "02:30 PM",
+      "date": "20260604",
+      "cat": "PLATINUM",
+      "price": "300.00",
+      "status": "3"
+    },
+    "MRGB|1351|20260604|GOLD": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "02:30 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "MRGB|1352|20260604|PLATINUM": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "06:15 PM",
+      "date": "20260604",
+      "cat": "PLATINUM",
+      "price": "300.00",
+      "status": "2"
+    },
+    "MRGB|1352|20260604|GOLD": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "06:15 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "2"
+    },
+    "MRGB|1353|20260604|PLATINUM": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "10:05 PM",
+      "date": "20260604",
+      "cat": "PLATINUM",
+      "price": "300.00",
+      "status": "2"
+    },
+    "MRGB|1353|20260604|GOLD": {
+      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
+      "time": "10:05 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "2"
+    },
     "VTBE|4260|20260604|GOLD": {
       "venue": "Sri Vajreshwari Cinemas AC 4K Dolby ATMOS: Ullal",
       "time": "06:15 AM",
@@ -2583,86 +2823,6 @@
       "cat": "SOFA",
       "price": "300.00",
       "status": "3"
-    },
-    "MRGB|1349|20260604|PLATINUM": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "07:00 AM",
-      "date": "20260604",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "1"
-    },
-    "MRGB|1349|20260604|GOLD": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "07:00 AM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "2"
-    },
-    "MRGB|1350|20260604|PLATINUM": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "10:45 AM",
-      "date": "20260604",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "3"
-    },
-    "MRGB|1350|20260604|GOLD": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "10:45 AM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "MRGB|1351|20260604|PLATINUM": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "02:30 PM",
-      "date": "20260604",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "3"
-    },
-    "MRGB|1351|20260604|GOLD": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "02:30 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "MRGB|1352|20260604|PLATINUM": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "06:15 PM",
-      "date": "20260604",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "2"
-    },
-    "MRGB|1352|20260604|GOLD": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "06:15 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "2"
-    },
-    "MRGB|1353|20260604|PLATINUM": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "10:05 PM",
-      "date": "20260604",
-      "cat": "PLATINUM",
-      "price": "300.00",
-      "status": "2"
-    },
-    "MRGB|1353|20260604|GOLD": {
-      "venue": "Manasa RGB Laser ATMOS: Konanakunte",
-      "time": "10:05 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "2"
     },
     "KCBI|12872|20260604|DIAMOND": {
       "venue": "Kamakya 4K Dolby Atmos 3D A/C Cinema: Banashankari",
@@ -2920,6 +3080,86 @@
       "price": "200.00",
       "status": "3"
     },
+    "PTBC|10488|20260604|GOLD": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "08:15 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PTBC|10488|20260604|SILVER": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "08:15 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PTBC|10492|20260604|GOLD": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "11:45 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PTBC|10492|20260604|SILVER": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "11:45 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PTBC|10491|20260604|GOLD": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "03:20 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PTBC|10491|20260604|SILVER": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "03:20 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PTBC|10490|20260604|GOLD": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "07:00 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PTBC|10490|20260604|SILVER": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "07:00 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PTBC|10489|20260604|GOLD": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PTBC|10489|20260604|SILVER": {
+      "venue": "Swagath Poornima 4K Dolby Atmos: JC Road (New)",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
     "ASTB|25442|20260604|Premium": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
       "time": "09:30 AM",
@@ -2952,20 +3192,20 @@
       "price": "150.00",
       "status": "3"
     },
-    "ASTB|25444|20260604|Classic": {
-      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
-      "time": "04:15 PM",
-      "date": "20260604",
-      "cat": "Classic",
-      "price": "150.00",
-      "status": "3"
-    },
     "ASTB|25444|20260604|Premium": {
       "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
       "time": "04:15 PM",
       "date": "20260604",
       "cat": "Premium",
       "price": "200.00",
+      "status": "3"
+    },
+    "ASTB|25444|20260604|Classic": {
+      "venue": "Ashoka Cinemas - Dolby Laser: Chikkabanavara",
+      "time": "04:15 PM",
+      "date": "20260604",
+      "cat": "Classic",
+      "price": "150.00",
       "status": "3"
     },
     "ASTB|25445|20260604|Premium": {
@@ -3022,7 +3262,7 @@
       "date": "20260604",
       "cat": "DIAMOND CLASS",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "SIDA|15479|20260604|GOLD": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3030,7 +3270,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "3"
+      "status": "2"
     },
     "SIDA|15480|20260604|DIAMOND CLASS": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3038,7 +3278,7 @@
       "date": "20260604",
       "cat": "DIAMOND CLASS",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "SIDA|15480|20260604|GOLD": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3046,7 +3286,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "3"
+      "status": "1"
     },
     "SIDA|15481|20260604|DIAMOND CLASS": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3054,7 +3294,7 @@
       "date": "20260604",
       "cat": "DIAMOND CLASS",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
     "SIDA|15481|20260604|GOLD": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -3062,7 +3302,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "3"
+      "status": "1"
     },
     "VBWT|3602|20260604|BALCONY": {
       "venue": "Veerabhadreshwara Theatre 4KDOLBY 7.1 Kamala Nagar",
@@ -3141,70 +3381,6 @@
       "time": "10:30 PM",
       "date": "20260604",
       "cat": "SECOND CLASS",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SBCR|10525|20260604|DIAMOND": {
-      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
-      "time": "10:30 AM",
-      "date": "20260604",
-      "cat": "DIAMOND",
-      "price": "250.00",
-      "status": "3"
-    },
-    "SBCR|10525|20260604|GOLD": {
-      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
-      "time": "10:30 AM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SBCR|10526|20260604|DIAMOND": {
-      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
-      "time": "02:00 PM",
-      "date": "20260604",
-      "cat": "DIAMOND",
-      "price": "250.00",
-      "status": "3"
-    },
-    "SBCR|10526|20260604|GOLD": {
-      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
-      "time": "02:00 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SBCR|10527|20260604|DIAMOND": {
-      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
-      "time": "06:00 PM",
-      "date": "20260604",
-      "cat": "DIAMOND",
-      "price": "250.00",
-      "status": "3"
-    },
-    "SBCR|10527|20260604|GOLD": {
-      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
-      "time": "06:00 PM",
-      "date": "20260604",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SBCR|10528|20260604|DIAMOND": {
-      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
-      "time": "09:45 PM",
-      "date": "20260604",
-      "cat": "DIAMOND",
-      "price": "250.00",
-      "status": "3"
-    },
-    "SBCR|10528|20260604|GOLD": {
-      "venue": "Sri Balaji 4K A/C Dolby Atmos: Dommasandra",
-      "time": "09:45 PM",
-      "date": "20260604",
-      "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
@@ -3302,7 +3478,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "SAED|5155|20260604|VIP": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -3310,7 +3486,7 @@
       "date": "20260604",
       "cat": "VIP",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "SAED|5155|20260604|PREMIUM": {
       "venue": "Srinivasa Theater A/C 4K Dolby Atmos: Kadugudi",
@@ -3326,7 +3502,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "2"
+      "status": "0"
     },
     "GDTY|22425|20260604|Balcony Class": {
       "venue": "Goverdhan Theatre: Yeshwantpur",
@@ -3824,6 +4000,70 @@
       "price": "200.00",
       "status": "3"
     },
+    "SVKT|8325|20260604|GOLD": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "10:30 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SVKT|8325|20260604|BOX": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "10:30 AM",
+      "date": "20260604",
+      "cat": "BOX",
+      "price": "200.00",
+      "status": "0"
+    },
+    "SVKT|8326|20260604|GOLD": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "01:45 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SVKT|8326|20260604|BOX": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "01:45 PM",
+      "date": "20260604",
+      "cat": "BOX",
+      "price": "200.00",
+      "status": "0"
+    },
+    "SVKT|8327|20260604|GOLD": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "05:15 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SVKT|8327|20260604|BOX": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "05:15 PM",
+      "date": "20260604",
+      "cat": "BOX",
+      "price": "200.00",
+      "status": "0"
+    },
+    "SVKT|8328|20260604|GOLD": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "09:00 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SVKT|8328|20260604|BOX": {
+      "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
+      "time": "09:00 PM",
+      "date": "20260604",
+      "cat": "BOX",
+      "price": "200.00",
+      "status": "0"
+    },
     "GDAK|16676|20260604|Gold": {
       "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
       "time": "10:30 AM",
@@ -3885,6 +4125,70 @@
       "time": "08:30 PM",
       "date": "20260604",
       "cat": "Silver Class",
+      "price": "200.00",
+      "status": "3"
+    },
+    "AMRT|13348|20260604|GOLD": {
+      "venue": "Amruth Digital 2K A/C Cinema: Lingarajapuram",
+      "time": "11:00 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AMRT|13348|20260604|SILVER": {
+      "venue": "Amruth Digital 2K A/C Cinema: Lingarajapuram",
+      "time": "11:00 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "AMRT|13349|20260604|GOLD": {
+      "venue": "Amruth Digital 2K A/C Cinema: Lingarajapuram",
+      "time": "02:40 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AMRT|13349|20260604|SILVER": {
+      "venue": "Amruth Digital 2K A/C Cinema: Lingarajapuram",
+      "time": "02:40 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "AMRT|13350|20260604|GOLD": {
+      "venue": "Amruth Digital 2K A/C Cinema: Lingarajapuram",
+      "time": "06:20 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AMRT|13350|20260604|SILVER": {
+      "venue": "Amruth Digital 2K A/C Cinema: Lingarajapuram",
+      "time": "06:20 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "AMRT|13351|20260604|GOLD": {
+      "venue": "Amruth Digital 2K A/C Cinema: Lingarajapuram",
+      "time": "10:00 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AMRT|13351|20260604|SILVER": {
+      "venue": "Amruth Digital 2K A/C Cinema: Lingarajapuram",
+      "time": "10:00 PM",
+      "date": "20260604",
+      "cat": "SILVER",
       "price": "200.00",
       "status": "3"
     },
@@ -4048,6 +4352,86 @@
       "price": "200.00",
       "status": "3"
     },
+    "SRPJ|10853|20260604|GOLD": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "07:30 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SRPJ|10853|20260604|SILVER": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "07:30 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SRPJ|10854|20260604|GOLD": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "11:00 AM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SRPJ|10854|20260604|SILVER": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "11:00 AM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SRPJ|10855|20260604|GOLD": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "02:20 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SRPJ|10855|20260604|SILVER": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "02:20 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SRPJ|10856|20260604|GOLD": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "05:40 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SRPJ|10856|20260604|SILVER": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "05:40 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SRPJ|10857|20260604|GOLD": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "09:00 PM",
+      "date": "20260604",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "SRPJ|10857|20260604|SILVER": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "09:00 PM",
+      "date": "20260604",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
     "CHTH|12307|20260604|Platinum": {
       "venue": "Chandrodaya Cinemas 4K Dolby A/C:Vidyapeeta Circle",
       "time": "06:30 AM",
@@ -4200,6 +4584,38 @@
       "price": "200.00",
       "status": "3"
     },
+    "PTYK|13125|20260604|Gold": {
+      "venue": "Prakash Theatre: Yelahanka",
+      "time": "09:30 AM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PTYK|13126|20260604|Gold": {
+      "venue": "Prakash Theatre: Yelahanka",
+      "time": "01:15 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PTYK|13127|20260604|Gold": {
+      "venue": "Prakash Theatre: Yelahanka",
+      "time": "04:45 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PTYK|13128|20260604|Gold": {
+      "venue": "Prakash Theatre: Yelahanka",
+      "time": "08:30 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "250.00",
+      "status": "3"
+    },
     "VDCS|8439|20260604|BALCONY": {
       "venue": "Vainidhi Cinemas Dolby Lazer: Singapura",
       "time": "09:30 AM",
@@ -4280,36 +4696,44 @@
       "price": "200.00",
       "status": "3"
     },
-    "PTYK|13125|20260604|Gold": {
-      "venue": "Prakash Theatre: Yelahanka",
-      "time": "09:30 AM",
+    "SRHK|20770|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "07:00 AM",
       "date": "20260604",
-      "cat": "Gold",
-      "price": "250.00",
+      "cat": "Balcony ",
+      "price": "200.00",
       "status": "3"
     },
-    "PTYK|13126|20260604|Gold": {
-      "venue": "Prakash Theatre: Yelahanka",
-      "time": "01:15 PM",
+    "SRHK|20771|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "11:00 AM",
       "date": "20260604",
-      "cat": "Gold",
-      "price": "250.00",
+      "cat": "Balcony ",
+      "price": "200.00",
       "status": "3"
     },
-    "PTYK|13127|20260604|Gold": {
-      "venue": "Prakash Theatre: Yelahanka",
-      "time": "04:45 PM",
+    "SRHK|20772|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "02:30 PM",
       "date": "20260604",
-      "cat": "Gold",
-      "price": "250.00",
+      "cat": "Balcony ",
+      "price": "200.00",
       "status": "3"
     },
-    "PTYK|13128|20260604|Gold": {
-      "venue": "Prakash Theatre: Yelahanka",
-      "time": "08:30 PM",
+    "SRHK|20774|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "06:00 PM",
       "date": "20260604",
-      "cat": "Gold",
-      "price": "250.00",
+      "cat": "Balcony ",
+      "price": "200.00",
+      "status": "3"
+    },
+    "SRHK|20773|20260604|Balcony ": {
+      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
+      "time": "09:30 PM",
+      "date": "20260604",
+      "cat": "Balcony ",
+      "price": "200.00",
       "status": "3"
     },
     "MUTB|4205|20260604|DIAMOND": {
@@ -4389,46 +4813,6 @@
       "time": "09:45 PM",
       "date": "20260604",
       "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20770|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "07:00 AM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20771|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "11:00 AM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20772|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "02:30 PM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20774|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "06:00 PM",
-      "date": "20260604",
-      "cat": "Balcony ",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SRHK|20773|20260604|Balcony ": {
-      "venue": "Sri Rajmurali Theatre: Sahakar Nagar, Kodigehalli",
-      "time": "09:30 PM",
-      "date": "20260604",
-      "cat": "Balcony ",
       "price": "200.00",
       "status": "3"
     },
