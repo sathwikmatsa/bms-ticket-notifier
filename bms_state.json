@@ -624,14 +624,6 @@
       "price": "850.00",
       "status": "3"
     },
-    "PVOO|48310|20260604|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "09:00 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
     "PVOO|48310|20260604|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "09:00 PM",
@@ -656,28 +648,20 @@
       "price": "450.00",
       "status": "3"
     },
+    "PVOO|48310|20260604|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "09:00 PM",
+      "date": "20260604",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "450.00",
+      "status": "3"
+    },
     "PVOO|48198|20260604|RECLINER ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "09:30 PM",
       "date": "20260604",
       "cat": "RECLINER ROWS",
       "price": "850.00",
-      "status": "3"
-    },
-    "PVOO|48198|20260604|CLASSIC ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "09:30 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "PVOO|48198|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "09:30 PM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "450.00",
       "status": "3"
     },
     "PVOO|48198|20260604|CLASSIC PLUS ROWS": {
@@ -696,20 +680,28 @@
       "price": "450.00",
       "status": "3"
     },
+    "PVOO|48198|20260604|CLASSIC ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "09:30 PM",
+      "date": "20260604",
+      "cat": "CLASSIC ROWS",
+      "price": "450.00",
+      "status": "3"
+    },
+    "PVOO|48198|20260604|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "09:30 PM",
+      "date": "20260604",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "450.00",
+      "status": "3"
+    },
     "PVOO|48232|20260604|RECLINER ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
       "time": "10:00 PM",
       "date": "20260604",
       "cat": "RECLINER ROWS",
       "price": "850.00",
-      "status": "3"
-    },
-    "PVOO|48232|20260604|PRIME ROWS": {
-      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
-      "time": "10:00 PM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
       "status": "3"
     },
     "PVOO|48232|20260604|CLASSIC ROWS": {
@@ -733,6 +725,14 @@
       "time": "10:00 PM",
       "date": "20260604",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "450.00",
+      "status": "3"
+    },
+    "PVOO|48232|20260604|PRIME ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "10:00 PM",
+      "date": "20260604",
+      "cat": "PRIME ROWS",
       "price": "450.00",
       "status": "3"
     },
@@ -1326,7 +1326,7 @@
       "date": "20260604",
       "cat": "ROYAL",
       "price": "1200.00",
-      "status": "2"
+      "status": "3"
     },
     "IMMO|56235|20260604|RECLINERS": {
       "venue": "INOX: Megaplex Mall of Asia Bangalore",
@@ -2870,7 +2870,7 @@
       "date": "20260604",
       "cat": "GOLD PRIME",
       "price": "1100.00",
-      "status": "3"
+      "status": "2"
     },
     "PVFF|48866|20260604|GOLD": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -3246,7 +3246,7 @@
       "date": "20260604",
       "cat": "GOLD PRIME",
       "price": "900.00",
-      "status": "2"
+      "status": "3"
     },
     "PVER|51661|20260604|GOLD": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -3302,7 +3302,7 @@
       "date": "20260604",
       "cat": "GOLD PRIME",
       "price": "950.00",
-      "status": "2"
+      "status": "3"
     },
     "PVER|51633|20260604|GOLD": {
       "venue": "PVR: Vega City, Bannerghatta Road",
@@ -4102,7 +4102,7 @@
       "date": "20260604",
       "cat": "PRIME ROWS",
       "price": "420.00",
-      "status": "3"
+      "status": "2"
     },
     "PPNX|41250|20260604|CLASSIC PLUS ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -4166,7 +4166,7 @@
       "date": "20260604",
       "cat": "PRIME ROWS",
       "price": "420.00",
-      "status": "3"
+      "status": "2"
     },
     "PPNX|41236|20260604|CLASSIC PLUS ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
@@ -6494,7 +6494,7 @@
       "date": "20260604",
       "cat": "GOLD PRIME",
       "price": "1150.00",
-      "status": "3"
+      "status": "2"
     },
     "PVWW|36665|20260604|GOLD": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -7144,19 +7144,19 @@
       "price": "440.00",
       "status": "2"
     },
-    "PBMM|32502|20260604|PRIME ROWS": {
-      "venue": "PVR: Bhartiya Mall of Bengaluru",
-      "time": "06:40 PM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
     "PBMM|32502|20260604|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "06:40 PM",
       "date": "20260604",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "420.00",
+      "status": "3"
+    },
+    "PBMM|32502|20260604|PRIME ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "06:40 PM",
+      "date": "20260604",
+      "cat": "PRIME ROWS",
       "price": "420.00",
       "status": "3"
     },
@@ -7645,366 +7645,6 @@
       "time": "10:30 PM",
       "date": "20260604",
       "cat": "PREMIUM PLUS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRZ|64945|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:30 AM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "2"
-    },
-    "INRZ|64945|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:30 AM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "490.00",
-      "status": "3"
-    },
-    "INRZ|64945|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:30 AM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "470.00",
-      "status": "2"
-    },
-    "INRZ|64945|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:30 AM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "460.00",
-      "status": "3"
-    },
-    "INRZ|64945|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "08:30 AM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "INRZ|64934|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:30 AM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
-    "INRZ|64934|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:30 AM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "3"
-    },
-    "INRZ|64934|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:30 AM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "INRZ|64934|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:30 AM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRZ|64934|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:30 AM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRZ|64925|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "10:15 AM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "2"
-    },
-    "INRZ|64925|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "10:15 AM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "3"
-    },
-    "INRZ|64925|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "10:15 AM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "INRZ|64925|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "10:15 AM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRZ|64925|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "10:15 AM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRZ|64935|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "01:20 PM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
-    "INRZ|64935|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "01:20 PM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "3"
-    },
-    "INRZ|64935|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "01:20 PM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "INRZ|64935|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "01:20 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRZ|64935|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "01:20 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRZ|64926|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "02:05 PM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "0"
-    },
-    "INRZ|64926|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "02:05 PM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "3"
-    },
-    "INRZ|64926|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "02:05 PM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "INRZ|64926|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "02:05 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRZ|64926|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "02:05 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRZ|64936|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:10 PM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
-    "INRZ|64936|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:10 PM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "3"
-    },
-    "INRZ|64936|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:10 PM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "INRZ|64936|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:10 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRZ|64936|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:10 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRZ|64927|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:55 PM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "2"
-    },
-    "INRZ|64927|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:55 PM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "1"
-    },
-    "INRZ|64927|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:55 PM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "2"
-    },
-    "INRZ|64927|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:55 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRZ|64927|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "05:55 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRZ|64937|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:00 PM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
-    "INRZ|64937|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:00 PM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "3"
-    },
-    "INRZ|64937|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:00 PM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "INRZ|64937|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:00 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRZ|64937|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:00 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRZ|64928|20260604|RECLINER ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:45 PM",
-      "date": "20260604",
-      "cat": "RECLINER ROWS",
-      "price": "600.00",
-      "status": "2"
-    },
-    "INRZ|64928|20260604|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:45 PM",
-      "date": "20260604",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "470.00",
-      "status": "3"
-    },
-    "INRZ|64928|20260604|PRIME ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:45 PM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "INRZ|64928|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:45 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "INRZ|64928|20260604|CLASSIC ROWS": {
-      "venue": "INOX: Galleria Mall, Yelahanka",
-      "time": "09:45 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
       "price": "400.00",
       "status": "3"
     },
@@ -8664,6 +8304,14 @@
       "price": "350.00",
       "status": "3"
     },
+    "PMSR|28325|20260604|CLASSIC ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "10:00 AM",
+      "date": "20260604",
+      "cat": "CLASSIC ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
     "PMSR|28325|20260604|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "10:00 AM",
@@ -8677,14 +8325,6 @@
       "time": "10:00 AM",
       "date": "20260604",
       "cat": "PRIME ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
-    "PMSR|28325|20260604|CLASSIC ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:00 AM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -8792,19 +8432,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "PMSR|28326|20260604|CLASSIC ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "01:50 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "PMSR|28326|20260604|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "01:50 PM",
       "date": "20260604",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PMSR|28326|20260604|CLASSIC ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "01:50 PM",
+      "date": "20260604",
+      "cat": "CLASSIC ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -8864,14 +8504,6 @@
       "price": "350.00",
       "status": "3"
     },
-    "PMSR|28331|20260604|CLASSIC ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "02:50 PM",
-      "date": "20260604",
-      "cat": "CLASSIC ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "PMSR|28331|20260604|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "02:50 PM",
@@ -8885,6 +8517,14 @@
       "time": "02:50 PM",
       "date": "20260604",
       "cat": "PRIME ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PMSR|28331|20260604|CLASSIC ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "02:50 PM",
+      "date": "20260604",
+      "cat": "CLASSIC ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -8904,6 +8544,14 @@
       "price": "350.00",
       "status": "3"
     },
+    "PMSR|28327|20260604|CLASSIC PLUS ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "05:40 PM",
+      "date": "20260604",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
     "PMSR|28327|20260604|PRIME ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "05:40 PM",
@@ -8917,14 +8565,6 @@
       "time": "05:40 PM",
       "date": "20260604",
       "cat": "CLASSIC ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
-    "PMSR|28327|20260604|CLASSIC PLUS ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "05:40 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -9072,19 +8712,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "PMSR|28328|20260604|CLASSIC PLUS ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "09:30 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "PMSR|28328|20260604|CLASSIC ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "09:30 PM",
       "date": "20260604",
       "cat": "CLASSIC ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PMSR|28328|20260604|CLASSIC PLUS ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "09:30 PM",
+      "date": "20260604",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -9152,19 +8792,19 @@
       "price": "350.00",
       "status": "3"
     },
-    "PMSR|28333|20260604|CLASSIC PLUS ROWS": {
-      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
-      "time": "10:30 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
     "PMSR|28333|20260604|CLASSIC ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
       "time": "10:30 PM",
       "date": "20260604",
       "cat": "CLASSIC ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PMSR|28333|20260604|CLASSIC PLUS ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "300.00",
       "status": "3"
     },
@@ -10470,7 +10110,7 @@
       "date": "20260604",
       "cat": "CLASSIC",
       "price": "800.00",
-      "status": "2"
+      "status": "3"
     },
     "INMB|71070|20260604|RECLINER ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
@@ -10544,6 +10184,14 @@
       "price": "390.00",
       "status": "1"
     },
+    "FMFB|119131|20260604|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Nexus, Whitefield",
+      "time": "07:10 AM",
+      "date": "20260604",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "350.00",
+      "status": "2"
+    },
     "FMFB|119131|20260604|CLASSIC ROWS": {
       "venue": "INOX: Nexus, Whitefield",
       "time": "07:10 AM",
@@ -10552,13 +10200,13 @@
       "price": "350.00",
       "status": "3"
     },
-    "FMFB|119131|20260604|CLASSIC PLUS ROWS": {
+    "FMFB|119137|20260604|CLASSIC PLUS ROWS": {
       "venue": "INOX: Nexus, Whitefield",
-      "time": "07:10 AM",
+      "time": "10:00 AM",
       "date": "20260604",
       "cat": "CLASSIC PLUS ROWS",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "FMFB|119137|20260604|PRIME ROWS": {
       "venue": "INOX: Nexus, Whitefield",
@@ -10576,14 +10224,6 @@
       "price": "350.00",
       "status": "3"
     },
-    "FMFB|119137|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "10:00 AM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "350.00",
-      "status": "3"
-    },
     "FMFB|119146|20260604|INSIGNIA": {
       "venue": "INOX: Nexus, Whitefield",
       "time": "10:30 AM",
@@ -10591,6 +10231,14 @@
       "cat": "INSIGNIA",
       "price": "700.00",
       "status": "3"
+    },
+    "FMFB|119150|20260604|PRIME ROWS": {
+      "venue": "INOX: Nexus, Whitefield",
+      "time": "11:00 AM",
+      "date": "20260604",
+      "cat": "PRIME ROWS",
+      "price": "350.00",
+      "status": "2"
     },
     "FMFB|119150|20260604|CLASSIC ROWS": {
       "venue": "INOX: Nexus, Whitefield",
@@ -10607,14 +10255,6 @@
       "cat": "CLASSIC PLUS ROWS",
       "price": "350.00",
       "status": "3"
-    },
-    "FMFB|119150|20260604|PRIME ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "11:00 AM",
-      "date": "20260604",
-      "cat": "PRIME ROWS",
-      "price": "350.00",
-      "status": "2"
     },
     "FMFB|119147|20260604|INSIGNIA": {
       "venue": "INOX: Nexus, Whitefield",
@@ -10680,19 +10320,19 @@
       "price": "390.00",
       "status": "1"
     },
-    "FMFB|119152|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "06:40 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "350.00",
-      "status": "3"
-    },
     "FMFB|119152|20260604|CLASSIC ROWS": {
       "venue": "INOX: Nexus, Whitefield",
       "time": "06:40 PM",
       "date": "20260604",
       "cat": "CLASSIC ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "FMFB|119152|20260604|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Nexus, Whitefield",
+      "time": "06:40 PM",
+      "date": "20260604",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "350.00",
       "status": "3"
     },
@@ -10736,19 +10376,19 @@
       "price": "390.00",
       "status": "1"
     },
-    "FMFB|119153|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "10:30 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "350.00",
-      "status": "3"
-    },
     "FMFB|119153|20260604|CLASSIC ROWS": {
       "venue": "INOX: Nexus, Whitefield",
       "time": "10:30 PM",
       "date": "20260604",
       "cat": "CLASSIC ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "FMFB|119153|20260604|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Nexus, Whitefield",
+      "time": "10:30 PM",
+      "date": "20260604",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "350.00",
       "status": "3"
     },
@@ -13790,7 +13430,7 @@
       "date": "20260604",
       "cat": "BUSINESS CLASS",
       "price": "300.00",
-      "status": "0"
+      "status": "1"
     },
     "VCTP|12592|20260604|PREMIUM": {
       "venue": "V Cinemas: T.C Palya Main Road, Ramamurthy Nagar",
@@ -14070,7 +13710,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "SATB|1232|20260604|SILVER": {
       "venue": "Sandhya Cinema: Bengaluru",
@@ -14968,14 +14608,6 @@
       "price": "300.00",
       "status": "3"
     },
-    "GYBU|46395|20260604|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Garuda Yelahanka, Bengaluru",
-      "time": "05:55 PM",
-      "date": "20260604",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
-      "status": "2"
-    },
     "GYBU|46395|20260604|PRIME ROWS": {
       "venue": "INOX: Garuda Yelahanka, Bengaluru",
       "time": "05:55 PM",
@@ -14983,6 +14615,14 @@
       "cat": "PRIME ROWS",
       "price": "340.00",
       "status": "3"
+    },
+    "GYBU|46395|20260604|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Garuda Yelahanka, Bengaluru",
+      "time": "05:55 PM",
+      "date": "20260604",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "340.00",
+      "status": "2"
     },
     "GYBU|46395|20260604|CLASSIC ROWS": {
       "venue": "INOX: Garuda Yelahanka, Bengaluru",
@@ -16422,7 +16062,7 @@
       "date": "20260604",
       "cat": "RECLINER PRIME",
       "price": "1250.00",
-      "status": "2"
+      "status": "1"
     },
     "PDWR|25651|20260604|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -17046,7 +16686,7 @@
       "date": "20260604",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
     "INBM|52878|20260604|CLASSIC PLUS ROWS": {
       "venue": "INOX: Brookefield Mall",
@@ -18710,7 +18350,7 @@
       "date": "20260604",
       "cat": "DIAMOND CLASS",
       "price": "250.00",
-      "status": "0"
+      "status": "3"
     },
     "SIDA|15482|20260604|GOLD": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -18718,7 +18358,7 @@
       "date": "20260604",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "0"
+      "status": "3"
     },
     "SIDA|15479|20260604|DIAMOND CLASS": {
       "venue": "Siddalingeshwara A/C 4K 3D Dolby Digital:J.P.Nagar",
@@ -19472,22 +19112,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "SMRN|21307|20260604|Gold Class": {
-      "venue": "Maruthi Cinemas 4K AC Dolby 7.1: RajgopalNagar",
-      "time": "06:00 AM",
-      "date": "20260604",
-      "cat": "Gold Class",
-      "price": "250.00",
-      "status": "3"
-    },
-    "SMRN|21307|20260604|Silver Class": {
-      "venue": "Maruthi Cinemas 4K AC Dolby 7.1: RajgopalNagar",
-      "time": "06:00 AM",
-      "date": "20260604",
-      "cat": "Silver Class",
-      "price": "200.00",
-      "status": "3"
-    },
     "SMRN|21308|20260604|Gold Class": {
       "venue": "Maruthi Cinemas 4K AC Dolby 7.1: RajgopalNagar",
       "time": "10:00 AM",
@@ -19678,7 +19302,7 @@
       "date": "20260604",
       "cat": "BOX",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "SVKT|8328|20260604|GOLD": {
       "venue": "Venkateshwara Digital 4K Dolby Atmos A/C: Kengeri",
@@ -19694,7 +19318,7 @@
       "date": "20260604",
       "cat": "BOX",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "GDAK|16681|20260604|Gold": {
       "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
@@ -19744,14 +19368,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "GDAK|16677|20260604|Silver Class": {
-      "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
-      "time": "05:30 PM",
-      "date": "20260604",
-      "cat": "Silver Class",
-      "price": "200.00",
-      "status": "3"
-    },
     "GDAK|16677|20260604|Gold": {
       "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
       "time": "05:30 PM",
@@ -19760,12 +19376,12 @@
       "price": "250.00",
       "status": "3"
     },
-    "GDAK|16679|20260604|Gold": {
+    "GDAK|16677|20260604|Silver Class": {
       "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
-      "time": "08:30 PM",
+      "time": "05:30 PM",
       "date": "20260604",
-      "cat": "Gold",
-      "price": "250.00",
+      "cat": "Silver Class",
+      "price": "200.00",
       "status": "3"
     },
     "GDAK|16679|20260604|Silver Class": {
@@ -19774,6 +19390,14 @@
       "date": "20260604",
       "cat": "Silver Class",
       "price": "200.00",
+      "status": "3"
+    },
+    "GDAK|16679|20260604|Gold": {
+      "venue": "Gowrishankar DOLBY 7.1 RGB Laser: Attibele",
+      "time": "08:30 PM",
+      "date": "20260604",
+      "cat": "Gold",
+      "price": "250.00",
       "status": "3"
     },
     "AMRT|13348|20260604|GOLD": {
@@ -19982,7 +19606,7 @@
       "date": "20260604",
       "cat": "Silver",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "SRRT|6870|20260604|Diamond": {
       "venue": "VR Cinemas 4K A/C 7.1 Dolby Atmos: Mallathalli",
@@ -20648,14 +20272,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "SLND|17706|20260604|Balcony": {
-      "venue": "SLN Theatre RGB Laser Projector: Hesaraghatta",
-      "time": "06:30 AM",
-      "date": "20260604",
-      "cat": "Balcony",
-      "price": "200.00",
-      "status": "3"
-    },
     "SLND|17667|20260604|Balcony": {
       "venue": "SLN Theatre RGB Laser Projector: Hesaraghatta",
       "time": "11:00 AM",
@@ -20686,14 +20302,6 @@
       "date": "20260604",
       "cat": "Balcony",
       "price": "150.00",
-      "status": "3"
-    },
-    "SPWA|14192|20260604|First Class": {
-      "venue": "Sri Annapurneshwari Theatre: Anekal",
-      "time": "06:30 AM",
-      "date": "20260604",
-      "cat": "First Class",
-      "price": "200.00",
       "status": "3"
     },
     "SPWA|14193|20260604|First Class": {
